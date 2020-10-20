@@ -271,8 +271,6 @@ http://api.new.livestream.com/accounts/7861901/events/6247367/live.m3u8
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8?v=1771904733&__mn_sid=13380223219124813958
 #EXTINF:-1 tvg-id="" tvg-name="Al Hiwar TV" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/2002.png" group-title="",Al-Hiwar
 http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GRl09vk.jpg" group-title="Religious",ALHorreya TV
-http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/GRl09vk.jpg" group-title="",Alhurra
 http://mbn-lh.akamaihd.net/i/mbn_univ_live_1_1@190422/master.m3u8?v=1558393494
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://kimelli.nfshost.com/images/424.png" group-title="",Alhurra
@@ -289,18 +287,6 @@ https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/lWuU2wq.jpg" group-title="News",Arise News
 http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SDh/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 1
-http://www.ast.tv/stream/1/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 1
-https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 1
-https://www.ast.tv/stream/1/ultra.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 2
-https://www.ast.tv/stream/2/high.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 2
-https://www.ast.tv/stream/2/normal.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KmokZz8.jpg" group-title="XXX",AST TV 2
-https://www.ast.tv/stream/2/ultra.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="",Bahrain International
 http://185.105.4.106:1935/live/Bahrain%20International/chunklist_w672423170.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",BBC Arabic
@@ -343,14 +329,6 @@ http://39.135.16.142:6060/PLTV/88888888/224/3221225664/1/index.m3u8?fmt=ts2hls
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/AusIPTV/IPTVLogos/master/cgtn_logo.png" group-title="News",CGTN
 http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ui.cgtn.com/static/resource/images/icon_new/live/live_AR.png" group-title="",CGTN Arabic
-http://39.135.16.142:6060/PLTV/88888888/224/3221225669/1/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" group-title="",CGTN Arabic
-http://live.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/CGTN_arabic.png" group-title="",CGTN Arabic
-http://live.cgtn.com/1000a/prog_index.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="News",CGTN Arabic
-http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Documentary",CGTN Documentary
 http://210.210.155.35/session/77d6180e-7b7b-11e8-a194-c81f66f89318/qwr9ew/s/s20/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Documentary",CGTN Documentary
@@ -359,24 +337,6 @@ http://bit.ly/2D1FvME
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Documentary",CGTN Documentary
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CGTN Español
-http://bit.ly/2F0ODBz
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CGTN Español
-http://live.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CGTN Español
-http://livees.cgtn.com/500e/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CGTN Español
-https://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Cgtn.jpg" group-title="",CGTN Français
-http://live.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",CGTN Français
-http://live.cgtn.com/cctv-f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/CGTN_-_fran%C3%A7ais.png/200px-CGTN_-_fran%C3%A7ais.png" group-title="",CGTN Français
-https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/4s1NlRf.jpg" group-title="",Chaine Nord Africaine
-http://live.creacast.com/cna/smil:cna.smil/chunklist_w1780122037_b864000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cycnow.com/site/images/system/logo.png" group-title="",Christian Youth Channel
-http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w258510680.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/CNBC.uk.png" group-title="Business",CNBC
 https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" group-title="Business",CNBC
@@ -577,28 +537,6 @@ https://ur.imamhusseintv.com/live/ih4.m3u8
 https://vcnindiewave.teleosmedia.com/stream/indiewave/indiewave/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Iran International
 https://svs.itworkscdn.net/iinternationallive/iintl.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/KJm7i78.png" group-title="XXX",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/mX1nnGy.png" group-title="Entertainment",KIX
 http://210.210.155.35/uq2663/h/h07/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Manoto
@@ -819,38 +757,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/7NeBmWX.jpg" group-title="Sport",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/BMJDW7r.png" group-title="XXX",RedTraffic Big Ass
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/iNmHyo2.png" group-title="XXX",RedTraffic Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/L0VcV7w.png" group-title="XXX",RedTraffic Big Tits
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/xfIelNY.png" group-title="XXX",RedTraffic Blowjob
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/rzZYfkN.png" group-title="XXX",RedTraffic Cuckold
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/bp1qW74.png" group-title="XXX",RedTraffic Fetish
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6LqaFuD.png" group-title="XXX",RedTraffic Hardcore
-http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/t3LXxuv.png" group-title="XXX",RedTraffic Interracial
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/uosNpWk.png" group-title="XXX",RedTraffic Latina
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/6dgyIz0.png" group-title="XXX",RedTraffic Lesbian
-http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/acW4Fe9.png" group-title="XXX",RedTraffic MILF
-http://live.redtraffic.xyz/milf.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/S2kSwfv.png" group-title="XXX",RedTraffic Pornstar
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EvqysKS.png" group-title="XXX",RedTraffic POV
-http://live.redtraffic.xyz/pov.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/5WSwI1A.png" group-title="XXX",RedTraffic Russian
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/3nOaNzu.png" group-title="XXX",RedTraffic Teen
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/k85bqov.png" group-title="XXX",RedTraffic Threesome
-http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://logok.org/wp-content/uploads/2015/01/Rotana-logo-880x660.png" group-title="",Rotana Aflam
 http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://rotana.net/assets/uploads/2017/03/ro-cinema-logo-copy.png" group-title="",Rotana Cinema
@@ -995,10 +901,6 @@ http://139.59.166.48:8081/live/live3/playlist.m3u8
 http://de1se01.v2beat.live/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/JWJ8nJB.jpg" group-title="Music",V2BEAT TV
 https://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/RJ9wbNF.jpg" group-title="XXX",VISIT-X
-http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/EWkFM9u.jpg" group-title="XXX",Vivid TV Europe
-http://188.35.9.26:2031/udp/031a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="",VOA
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc3_3@320295/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="",VOA
@@ -1021,5 +923,10 @@ http://210.210.155.35/qwr9ew/s/s32/index2.m3u8
 http://210.210.155.35/session/031c454a-7d85-11e8-820c-c81f66f89318/qwr9ew/s/s32/index1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="",Zee Bioskop
 http://210.210.155.35/session/5d6f2928-d6cb-11e8-8e98-c81f66f89318/qwr9ew/s/s32/index2.m3u8
-#EXTINF:-1 tvg-id="rtr-planeta-eu" tvg-name="???-??????? ??????" tvg-logo="https://i.imgur.com/kEhcpJd.jpg" group-title="General",???-??????? (??????)
+#EXTINF:-1 tvg-id="" tvg-name="MADINAH" tvg-logo="https://i.ytimg.com/vi/fzpywHj4IXk/hqdefault_live.jpg" group-title="Saudi Arabia",MADINAH
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MAKKAH" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/6c/a2/56/6ca256b1-58a8-782c-7057-984a820945df/source/512x512bb.jpg" group-title="Saudi Arabia",MAKKAH
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg" group-title="South Korea",Arirang HD
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
