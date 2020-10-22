@@ -62,7 +62,7 @@ http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2oUBtd.png" group-title="Malayalam",Kappa TV (New!)
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png" group-title="INDIA",KTV (New!)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png" group-title="Tamil",KTV (New!)
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/304p9Qo.png" group-title="Tamil",Makkal TV
@@ -143,19 +143,12 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
 
 #EXTINF:-1,nat: AR: Nat Geo AD
-
 http://62.171.175.99:25461/XqWTXoYhnU/ij5Um30KIm/30
-
 #EXTINF:-1,nat: EL FADJR TV-french
-
 http://62.171.175.99:25461/XqWTXoYhnU/ij5Um30KIm/37
-
 #EXTINF:-1,nat: ALG: Samira FoodTV group-title="Food"
-
 http://62.171.175.99:25461/XqWTXoYhnU/ij5Um30KIm/41
-
-
-#EXTINF:-1,nat: ALG: Echorouk TV
+#EXTINF:-1,nat: ALG: Echorouk TV group-title="Food"
 http://62.171.175.99:25461/XqWTXoYhnU/ij5Um30KIm/46
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-country="JP" tvg-url="" group-title="News",NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
