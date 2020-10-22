@@ -125,7 +125,60 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/PRIMECANADA.png" tvg-country="IN" tvg-url="" group-title="Hindi",Prime Canada TV
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="Info",BBC 1 Scotland,UK
 
+https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8?checkedby:iptvcat.com
+
+
+#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/3pRD6Fx.png" group-title="Intnews",BBC News,UK
+
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8?checkedby:iptvcat.com
+
+#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/FCFAAJb.png" group-title="korean",Hallypop,KR
+https://dai.google.com/linear/hls/event/ctGD-E18Q0-3WScFd_tK5w/master.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", REAL MADRID TV HD
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="ARGENTINA", CN 24/7
+http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1,nat: AR: Nat Geo AD
+
+http://62.171.175.99:25461/XqWTXoYhnU/ij5Um30KIm/30
+
+#EXTINF:-1,nat: EL FADJR TV-french
+
+http://62.171.175.99:25461/XqWTXoYhnU/ij5Um30KIm/37
+
+#EXTINF:-1,nat: ALG: Samira FoodTV group-title="Food"
+
+http://62.171.175.99:25461/XqWTXoYhnU/ij5Um30KIm/41
+
+
+#EXTINF:-1,nat: ALG: Echorouk TV
+http://62.171.175.99:25461/XqWTXoYhnU/ij5Um30KIm/46
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-country="JP" tvg-url="" group-title="News",NHK World Japan
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.addrama.ae/public/img/branding/logo.png" group-title="UAE",Abu Dhabi Drama (Opt-1)
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
+#EXTINF:0 tvg-name="Ayat TV" tvg-language="Hindi" tvg-country="SA" tvg-id="Y TV" tvg-logo="http://www.ytvindia.com/images/index_02.png" group-title="Islam"
+http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
+#EXTINF:0 tvg-name="BritishMuslimTv" tvg-language="Hindi" tvg-country="SA" tvg-id="Y TV" tvg-logo="http://www.ytvindia.com/images/index_02.png" group-title="Islam"
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
+GuideUSTv
+http://stream.streamislam.com:8080/streamer/live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Peace TV" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Islam"
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telewizja Kujawy" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Poland"
+http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVT Zgorzelec" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Poland" 
+http://stream4.nadaje.com:15308/live/stream-1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVT Zgorzelec" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Poland"
+http://gargoyle.tomkow.pl/hls/tvt.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Telewizja Torun" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Poland" 
+http://217.173.176.107:1935/live/ngrp:tvk.stream_mobile/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="மக்கள் தொலைக்காட்சி" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Tamil" 
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nLimNFX.png" group-title="USA",Filmrise Classics
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmriseclassictv/CDN/648x432_5000000/index.m3u8
