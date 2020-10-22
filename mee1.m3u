@@ -141,14 +141,13 @@ http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebas
 
 #EXTINF:-1 tvg-logo="https://www.cn247.tv/img/logo.png" group-title="ARGENTINA", CN 24/7
 http://59c5c86e10038.streamlock.net:1935/6605140/6605140/playlist.m3u8?fluxustv.m3u8
-
 #EXTINF:-1,nat: AR: Nat Geo AD
 http://62.171.175.99:25461/XqWTXoYhnU/ij5Um30KIm/30
 #EXTINF:-1,nat: EL FADJR TV-french
 http://62.171.175.99:25461/XqWTXoYhnU/ij5Um30KIm/37
-#EXTINF:-1,nat: ALG: Samira FoodTV group-title="Food"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Samira_TV_logo.svg/228px-Samira_TV_logo.svg.png" group-title="Food", SamiraTV
 http://62.171.175.99:25461/XqWTXoYhnU/ij5Um30KIm/41
-#EXTINF:-1,nat: ALG: Echorouk TV group-title="Food"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Echourouk_TV_logo.svg/220px-Echourouk_TV_logo.svg.png" group-title="Food", EchouroukTV
 http://62.171.175.99:25461/XqWTXoYhnU/ij5Um30KIm/46
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Japanese" tvg-logo="https://i.imgur.com/SQISXoD.jpg" tvg-country="JP" tvg-url="" group-title="News",NHK World Japan
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
@@ -158,7 +157,7 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama
 http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
 #EXTINF:0 tvg-name="BritishMuslimTv" tvg-language="Hindi" tvg-country="SA" tvg-id="Y TV" tvg-logo="http://www.ytvindia.com/images/index_02.png" group-title="Islam"
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
-GuideUSTv
+#EXTINF:-1 tvg-logo="https://m.guideus.tv/images/logo_hr.jpg" group-title="Islam", GuideUSTV
 http://stream.streamislam.com:8080/streamer/live/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Peace TV" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Islam"
 http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
