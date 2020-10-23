@@ -621,7 +621,66 @@ http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
 
 #EXTINF:-1 tvg-id="1265" tvg-logo="https://i.imgur.com/7OAd3rZ.png" group-title="MOROCCO",Arryadia
 http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="UC",Britasia TV
+https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="Tamil",vaanavil plus tamil
+http://45.79.203.234:1935/vanavil/myStream/chunklist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="Movies",Dubaione
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="UC",ifilm arabic
+https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/index.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="UC",ifilm english
+https://bozztv.com/36bay2/gin/giniko_ifilmenglish_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-name="DD News" tvg-language="Hindi" tvg-country="IN" tvg-id="DD News" tvg-logo="http://3.bp.blogspot.com/-kvVwy1UlaGA/TyFj-fxy-6I/AAAAAAAAAVE/ZM0Fe7M56KI/s1600/dd_news.jpg" group-title="News",DD News (News) (IN) (Hindi)
+http://nicls1-lh.akamaihd.net/i/ddnews_1@409133/master.m3u8
 
+#EXTINF:0 tvg-name="CGTN English" tvg-language="Mandarin" tvg-country="UK" tvg-id="CGTN English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS2CU3UuCSK1Fal1JqE0GGmYGFkrZ-y3dVrQ-uFCDrFgNDSLkdEsfIvu4" group-title="Public-News",CGTN English (Public-News) (UK) (Mandarin)
+http://live.cgtn.com/500/prog_index.m3u8
+#EXTINF:0 tvg-name="Australia Channel" tvg-language="English" tvg-country="AU" tvg-id="Australia Channel" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" group-title="Public-Plex-Share",Australia Channel (Public-Plex-Share) (AU) (English)
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+#EXTINF:0 tvg-id="ext" group-title="OSN",#EXTINF:0 action movies
+http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/Screenshot_1-8.png" tvg-country="IN" tvg-url="" group-title="News",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/hzdMjA1.jpg" tvg-country="TH" tvg-url="" group-title="Thai",Channel 8 Thailand
+http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="http://ctbtv.co.th/indexctb/ctbtv1.png" tvg-country="TH" tvg-url="" group-title="Thai",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/hywu2pL.png" tvg-country="TH" tvg-url="" group-title="Thai",DDTV
+http://203.156.63.20:1935/live/ddtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/bYMtfRn.png" tvg-country="TH" tvg-url="" group-title="Thai",MCOT 30
+http://183.182.100.184/live/mcothd/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/aNExu5R.jpg" tvg-country="TH" tvg-url="" group-title="Thai",TGN
+https://bozztv.com/36bay2/gin/giniko_tgntv_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Thai" tvg-logo="https://i.imgur.com/lK52fpm.png" tvg-country="TH" tvg-url="" group-title="Thai",White Channel
+http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+#EXTINF:0,Knowledge Kids
+http://knstream1.azureedge.net/knlive/knlive_high.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="Islam",IIPC TV
+https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
+#EXTINF:0,ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:0,Canada One
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:0,Amazing Discoveries TV
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist_w906756729.m3u8
+#EXTINF:0,NTV Newfoundland
+https://2-fss-2.streamhoster.com/pl_138/201748-1282640-1/playlist.m3u8
+#EXTINF:0,Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:0,Prime Asia TV
+http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
+#EXTINF:0,Prime Canada TV(Hindi)
+http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
+#EXTINF:0,Tele-VFrench
+https://bcsecurelivehls-i.akamaihd.net/hls/live/551061/618566855001/master.m3u8
+#EXTINF:0,Toronto 360 TV
+http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
+#EXTINF:0,TV 16 Toronto
+http://capcobroadcaststream.in:1935/capco/tv29/playlist.m3u8
+#EXTINF:0,Télé-Québec
+https://teleqmmd.mmdlive.lldns.net/teleqmmd/f386e3b206814e1f8c8c1c71c0f8e748/chunklist_b2592000.m3u8
 #EXTINF:-1 tvg-id="1270" tvg-logo="https://i.imgur.com/1mdUjNW.png" group-title="UAE",Citruss TV
 https://citrusstv.akamaized.net/hls/live/687285/CTV/01.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/E38ZhCz.jpg" group-title="Fashion",Fashion TV L'Original
