@@ -11,7 +11,7 @@ http://185.105.4.106:1935/live/Bahrain%20TV/chunklist.m3u8?checkedby:hlscat.com
 http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="BH" tvg-logo="https://i.imgur.com/XZcLqWk.jpg" group-title="Undefined",Bahrain International
 http://185.105.4.106:1935/live/Bahrain%20International/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg" group-title="South Korea",Arirang HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg" group-title="Favourite",Arirang HD
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CKqup50.png" group-title="Tamil",7S Music (New!)
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
@@ -411,7 +411,7 @@ https://sbshdlu5-lh.akamaihd.net/i/sbshdl_2@810996/master.m3u8
 #EXTINF:-1 ,Discovery Nove
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_3@810997/master.m3u8
 http://104.250.154.42:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
-#EXTINF:-1 ,AXN
+#EXTINF:-1 tvg-logo="https://www.logo.wine/a/logo/AXN_(Portuguese_TV_channel)/AXN_(Portuguese_TV_channel)-Logo.wine.svg" group-title="Favourite",AXN
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1 ,Cinema World
 http://45.126.83.51/uq2663/h/h04/index.m3u8
@@ -723,7 +723,7 @@ http://cdn-hls.globecast.tv/live/ramdisk/arriadia/hls_snrt/index.m3u8
 https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/hi/c.m3u8
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="Tamil",vaanavil plus tamil
 http://45.79.203.234:1935/vanavil/myStream/chunklist.m3u8
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="Movies",Dubaione
+#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="Favourite",Dubaione
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="UC",ifilm arabic
 https://live2.presstv.com/ifilmlive/smil:ifilmar.smil/index.m3u8
