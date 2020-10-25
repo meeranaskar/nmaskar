@@ -102,6 +102,54 @@ https://dcunilive47-lh.akamaihd.net/i/dclive_1@739220/master.m3u8?checkedby:hlsc
 #EXTINF:0 tvg-country="AU;US" tvg-logo="" group-title="Undefined",Puthiya
 https://vidcdn.vidgyor.com/ptm-origin/liveabr/ptm-origin/live1/chunks.m3u8
 
+#EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Suvarna_News_New_Logo.jpg/220px-Suvarna_News_New_Logo.jpg" group-title="Kannada",Suvarna
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://publictv.in/wp-content/uploads/2020/08/Untitled-design-29-80x80.png" group-title="Kannada",PublicTV
+https://vidcdn.vidgyor.com/publictv-origin/liveabr/publictv-origin/live1/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png" group-title="Tamil",AsianetTamil
+https://vidcdn.vidgyor.com/ptm-origin/aslive/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://d2g0dpirr6ctpk.cloudfront.net/media_content/images/newlogo.png" group-title="Hindi",SonyMax
+https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://d2r4co1lu5hctj.cloudfront.net/media_content/images/logo-with-tagline1.png" group-title="Hindi",SonyWah
+https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://d1nablaogokl1x.cloudfront.net/images/logo.png" group-title="Hindi",SonyMax2
+https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="http://dangaltv.enterr10tv.com/images/dangaltv_logo.png" group-title="Hindi",Dangal
+https://load.airtelxstream.in/dangal/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Hindi",9xJalwa
+https://load.airtelxstream.in/9xjalwa/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/dabangg-tv-channel-logo-300x300.jpg" group-title="Hindi",Dabangg
+https://load.airtelxstream.in/dabanggtv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://zeebangla.zee5.com/wp-content/uploads/sites/8/2020/07/zee-bangla-1.png" group-title="Bangla",ZeeBangla
+https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/jaya-plus-tamil-black.png" group-title="Tamil",Jayaplus
+https://load.airtelxstream.in/jayaplus/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://www.ethnicchannels.com/images/channels/jaya-max-final.jpg" group-title="Tamil",Jayamax
+https://load.airtelxstream.in/jayamax/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Raj_TV_Tamil.png/250px-Raj_TV_Tamil.png" group-title="Tamil",Rajtv
+https://load.airtelxstream.in/rajtv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Bangla",DDBangla
+https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://d2jo35ozacw6sq.cloudfront.net/wp-content/uploads/2018/04/Tv9-Kannada.png" group-title="Kannada",TV9kannada
+https://load.airtelxstream.in/tv9kannada/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Tamil",POLIMER TV 
+https://load.airtelxstream.in/polimertv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Hindi",Rang 
+https://load.airtelxstream.in/rang/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Malayalam",FLOWER TV 
+https://load.airtelxstream.in/rang/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Tamil",Rajplus
+https://load.airtelxstream.in/rajdigitalplus/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Hindi",Aajtak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_1/chunklist.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Tamil",SunNews
+https://suntvlive.s.llnwi.net/SunNews/SunNews.isml/.m3u8?p=51&se=1603655517&e=1603684317&h=9a3675fb4eb161ff168647aa67bb301f&type=hd&PlayBackId=1369523392&cid=38926&country=BH&userid=24040898&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Hindi",CanadaOne
+http://cdn8.live247stream.com/canadaone/tv/canadaone/stream1/chunks.m3u8?nimblesessionid=323073366
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Hindi",IndiaTv News
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_1@199237/chunks.m3u8
+#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Islam",PeaceTV
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 
 
 
