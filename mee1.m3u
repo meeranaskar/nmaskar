@@ -17,6 +17,8 @@ http://185.105.4.106:1935/live/Bahrain%20International/playlist.m3u8?checkedby:h
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s.kaskus.id/r480x480/images/fjb/2017/09/26/tmp_phpwqzg7j_3528521_1506393197.jpg" group-title="Favourite",Arirang HD
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #PLAYLIST:Tamil
+#EXTINF:-1 tvg-logo="https://livetvcentral.com/imgs/tvs/425.jpg" group-title="Tamil",Moon tv
+http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="Tamil",Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="Tamil",Akaram Mix
@@ -175,6 +177,8 @@ https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3
 https://vidcdn.vidgyor.com/publictv-origin/liveabr/publictv-origin/live1/chunks.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://d2jo35ozacw6sq.cloudfront.net/wp-content/uploads/2018/04/Tv9-Kannada.png" group-title="Kannada",TV9kannada
 https://load.airtelxstream.in/tv9kannada/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-logo="http://prajaatvkannada.com/wp-content/uploads/2019/03/1-300x196.png" group-title="Kannada",Prajaa TV kannada
+http://livemedia.ios.wowstream.in:1935/ka-prajaa/prajaa-news/chunklist_w2063579686.m3u8
 
 #PLAYLIST:Bangla
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Bangla",DDBangla
