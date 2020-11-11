@@ -841,3 +841,90 @@ https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
 #EXTGRP:English Movie
 http://210.210.155.35/uq2663/h/h141/01.m3u8
 
+#EXTINF:-1,|EX-YU| FOX MOVIES
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20385
+#EXTINF:-1,|EX-YU| FOX
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20382
+#EXTINF:-1,|EX-YU| FOX CRIME
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20383
+#EXTINF:-1,|EX-YU| FOX LIFE
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20384
+#EXTINF:-1,|EX-YU| AXN Adria
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/41415
+#EXTINF:-1,|EX-YU| AXN SPIN
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/41416
+#EXTINF:-1,|EX-YU| PINK BH
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20411
+#EXTINF:-1,|EX-YU| PINK COMEDY
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20412
+#EXTINF:-1,|EX-YU| PINK CRIME & MISTERY
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20413
+#EXTINF:-1,|EX-YU| PINK EXTRA
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20414
+#EXTINF:-1,|EX-YU| PINK FAMLIY
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20415
+#EXTINF:-1,|EX-YU| PINK FILM
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20416
+#EXTINF:-1,|EX-YU| PINK FOLK 1
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20417
+#EXTINF:-1,|EX-YU| PINK FOLK 2
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20418
+#EXTINF:-1,|EX-YU| PINK HORROR
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20419
+#EXTINF:-1,|EX-YU| PINK KIDS
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20420
+#EXTINF:-1,|EX-YU| PINK M
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20421
+#EXTINF:-1,|EX-YU| PINK PEDIA
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20422
+#EXTINF:-1,|EX-YU| PINK PLUS
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20423
+#EXTINF:-1,|EX-YU| PINK PREMIUM
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20424
+#EXTINF:-1,|EX-YU| PINK REALITY
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20425
+#EXTINF:-1,|EX-YU| PINK ROMANCE
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20426
+#EXTINF:-1,|EX-YU| PINK SCI-FI & FANTASY
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20427
+#EXTINF:-1,|EX-YU| PINK SOAP
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20428
+#EXTINF:-1,|EX-YU| PINK THRILLER
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20429
+#EXTINF:-1,|EX-YU| PINK WESTERN
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20430
+#EXTINF:-1,|EX-YU| PINK WORLD
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20431
+#EXTINF:-1,|EX-YU| PINK ZABAVA
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20432
+#EXTINF:-1,|EX-YU| HAPPY
+#EXTINF:-1 group-title="Test"
+http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20388
