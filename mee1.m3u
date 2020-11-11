@@ -844,71 +844,49 @@ http://210.210.155.35/uq2663/h/h141/01.m3u8
 #EXTINF:-1,|EX-YU| FOX MOVIES
 #EXTINF:-1 group-title="Test"
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20385
-#EXTINF:-1,|EX-YU| FOX
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| FOX
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20382
-#EXTINF:-1,|EX-YU| FOX CRIME
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| FOX CRIME
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20383
-#EXTINF:-1,|EX-YU| FOX LIFE
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| FOX LIFE
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20384
-#EXTINF:-1,|EX-YU| AXN Adria
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| AXN Adria
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/41415
-#EXTINF:-1,|EX-YU| AXN SPIN
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| AXN SPIN
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/41416
-#EXTINF:-1,|EX-YU| PINK BH
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| PINK BH
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20411
-#EXTINF:-1,|EX-YU| PINK COMEDY
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| PINK COMEDY
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20412
-#EXTINF:-1,|EX-YU| PINK CRIME & MISTERY
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| PINK CRIME & MISTERY
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20413
-#EXTINF:-1,|EX-YU| PINK EXTRA
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| PINK EXTRA
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20414
-#EXTINF:-1,|EX-YU| PINK FAMLIY
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| PINK FAMLIY
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20415
-#EXTINF:-1,|EX-YU| PINK FILM
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| PINK FILM
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20416
-#EXTINF:-1,|EX-YU| PINK FOLK 1
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| PINK FOLK 1
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20417
-#EXTINF:-1,|EX-YU| PINK FOLK 2
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| PINK FOLK 2
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20418
-#EXTINF:-1,|EX-YU| PINK HORROR
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| PINK HORROR
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20419
-#EXTINF:-1,|EX-YU| PINK KIDS
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| PINK KIDS
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20420
-#EXTINF:-1,|EX-YU| PINK M
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| PINK M
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20421
-#EXTINF:-1,|EX-YU| PINK PEDIA
-#EXTINF:-1 group-title="Test"
+EXTINF:-1 group-title="Test",|EX-YU| PINK PEDIA
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20422
-#EXTINF:-1,|EX-YU| PINK PLUS
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| PINK PLUS
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20423
-#EXTINF:-1,|EX-YU| PINK PREMIUM
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| PINK PREMIUM
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20424
-#EXTINF:-1,|EX-YU| PINK REALITY
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| PINK REALITY
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20425
-#EXTINF:-1,|EX-YU| PINK ROMANCE
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| PINK ROMANCE
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20426
-#EXTINF:-1,|EX-YU| PINK SCI-FI & FANTASY
-#EXTINF:-1 group-title="Test"
+#EXTINF:-1 group-title="Test",|EX-YU| PINK SCI-FI & FANTASY
 http://iptvpro.vision-new.org:8789/iptv@ro@vod111@2019/9@0055@8528/20427
 #EXTINF:-1,|EX-YU| PINK SOAP
 #EXTINF:-1 group-title="Test"
