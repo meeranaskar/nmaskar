@@ -18,7 +18,10 @@ https://load.airtelxstream.in/rang/smil:common.smil/chunklist_b564000_DVR_sleng.
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEEANMOL" tvg-logo="" group-title="Hindi",ZEEANMOL
 http://dx3.gcdn.co/hindi-ZEEANMOL/index.m3u8
+
 #PLAYLIST:HD channels
+#EXTINF:-1 tvg-id="" tvg-name="STARPLUSHD" tvg-logo="" group-title="HD",STARPLUSHD
+http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONYMAXHD" tvg-logo="" group-title="HD",SONYMAXHD
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONYHD" tvg-logo="" group-title="HD",SONYHD
@@ -45,18 +48,42 @@ https://load.airtelxstream.in/rajtv/smil:common.smil/chunklist_b564000_DVR_sleng
 https://load.airtelxstream.in/polimertv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Raj+ Tamil" tvg-logo="" group-title="Tamil",Raj+ Tamil
 https://load.airtelxstream.in/rajdigitalplus/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="suntv" tvg-logo="" group-title="Tamil",suntv
+https://load.airtelxstream.in/suntv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sunmusic" tvg-logo="" group-title="Tamil",sunmusic
+https://load.airtelxstream.in/sunmusic/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ktv" tvg-logo="" group-title="Tamil",ktv
+https://load.airtelxstream.in/ktv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+
+
 #PLAYLIST:Kannada
 #EXTINF:-1 tvg-id="" tvg-name="TV9 KANNADA" tvg-logo="" group-title="Kannada",TV9 KANNADA
 https://load.airtelxstream.in/tv9kannada/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="udayatv" tvg-logo="" group-title="Kannada",udayatv
+https://load.airtelxstream.in/udayatv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="udayamusic" tvg-logo="" group-title="Kannada",udayamusic
+https://load.airtelxstream.in/udayamusic/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="colorskannada" tvg-logo="" group-title="Kannada",colorskannada
+https://load.airtelxstream.in/colorskannada/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+
+
 #PLAYLIST:Marathi
 #EXTINF:-1 tvg-id="" tvg-name="TV 9 MARATHI" tvg-logo="" group-title="Marathi",TV 9 MARATHI
 https://load.airtelxstream.in/tv9marathi/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 #PLAYLIST:Malayalam
 #EXTINF:-1 tvg-id="" tvg-name="FLOWER TV" tvg-logo="" group-title="Malayalam",FLOWER TV
 https://load.airtelxstream.in/rang/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="suryatv" tvg-logo="" group-title="Malayalam",suryatv
+https://load.airtelxstream.in/suryatv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="suryamusic" tvg-logo="" group-title="Malayalam",suryamusic
+https://load.airtelxstream.in/suryamusic/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+
 #PLAYLIST:EnglishMovie
 #EXTINF:-1 tvg-id="" tvg-name="timesnow" tvg-logo="" group-title="EnglishMovie",timesnow
 https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="hbo" tvg-logo="" group-title="EnglishMovie",hbo
+https://load.airtelxstream.in/hbo/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+
 #PLAYLIST:HindiMusic
 #EXTINF:-1 tvg-id="" tvg-name="9xm" tvg-logo="" group-title="HindiMusic",9xm
 https://load.airtelxstream.in/9xm/smil:common.smil/index.m3u8
@@ -67,3 +94,7 @@ https://load.airtelxstream.in/9xjalwa/smil:common.smil/index.m3u8
 http://dx3.gcdn.co/hindi-ZEENEWS/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZEENEWS" tvg-logo="" group-title="Test",ZEENEWS
 http://dx3.gcdn.co/OSNWWE/index.m3u8  
+#PLAYLIST:Telugu
+#EXTINF:-1 tvg-id="" tvg-name="geminitv" tvg-logo="" group-title="Telugu",geminitv
+https://load.airtelxstream.in/geminitv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+
