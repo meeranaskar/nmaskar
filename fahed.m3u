@@ -1,0 +1,69 @@
+﻿#EXTM3U
+#PLAYLIST:Hindi
+#EXTINF:-1 tvg-id="" tvg-name="sonymax" tvg-logo="" group-title="Hindi",sonymax
+https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sonywah" tvg-logo="" group-title="Hindi",sonywah
+https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="sonymax2" tvg-logo="" group-title="Hindi",sonymax2
+https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="dangal" tvg-logo="" group-title="Hindi",dangal
+https://load.airtelxstream.in/dangal/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9xjalwa" tvg-logo="" group-title="Hindi",9xjalwa
+https://load.airtelxstream.in/9xjalwa/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="dabanggtv" tvg-logo="" group-title="Hindi",dabanggtv
+https://load.airtelxstream.in/dabanggtv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="RANG TV" tvg-logo="" group-title="Hindi",RANG TV
+https://load.airtelxstream.in/rang/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONYMAX2" tvg-logo="" group-title="Hindi",SONYMAX2
+http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEEANMOL" tvg-logo="" group-title="Hindi",ZEEANMOL
+http://dx3.gcdn.co/hindi-ZEEANMOL/index.m3u8
+#PLAYLIST:HD channels
+#EXTINF:-1 tvg-id="" tvg-name="SONYMAXHD" tvg-logo="" group-title="HD",SONYMAXHD
+http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONYHD" tvg-logo="" group-title="HD",SONYHD
+http://dx3.gcdn.co/hindi-SONYHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SONYSABHD" tvg-logo="" group-title="HD",SONYSABHD
+http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEETVHD" tvg-logo="" group-title="HD",ZEETVHD
+http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TEN1HD" tvg-logo="" group-title="HD",TEN1HD
+http://dx3.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8
+#PLAYLIST:Bangla
+#EXTINF:-1 tvg-id="" tvg-name="zeebanglacinema" tvg-logo="" group-title="Bangla",zeebanglacinema
+https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ddbangla" tvg-logo="" group-title="Bangla",ddbangla
+https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#PLAYLIST:Tamil
+#EXTINF:-1 tvg-id="" tvg-name="jayaplus" tvg-logo="" group-title="Tamil",jayaplus
+https://load.airtelxstream.in/jayaplus/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="jayamax" tvg-logo="" group-title="Tamil",jayamax
+https://load.airtelxstream.in/jayamax/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="rajtv" tvg-logo="" group-title="Tamil",rajtv
+https://load.airtelxstream.in/rajtv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="POLIMER TV" tvg-logo="" group-title="Tamil",POLIMER TV
+https://load.airtelxstream.in/polimertv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Raj+ Tamil" tvg-logo="" group-title="Tamil",Raj+ Tamil
+https://load.airtelxstream.in/rajdigitalplus/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#PLAYLIST:Kannada
+#EXTINF:-1 tvg-id="" tvg-name="TV9 KANNADA" tvg-logo="" group-title="Kannada",TV9 KANNADA
+https://load.airtelxstream.in/tv9kannada/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#PLAYLIST:Marathi
+#EXTINF:-1 tvg-id="" tvg-name="TV 9 MARATHI" tvg-logo="" group-title="Marathi",TV 9 MARATHI
+https://load.airtelxstream.in/tv9marathi/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#PLAYLIST:Malayalam
+#EXTINF:-1 tvg-id="" tvg-name="FLOWER TV" tvg-logo="" group-title="Malayalam",FLOWER TV
+https://load.airtelxstream.in/rang/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#PLAYLIST:EnglishMovie
+#EXTINF:-1 tvg-id="" tvg-name="timesnow" tvg-logo="" group-title="EnglishMovie",timesnow
+https://timesnow.airtel.tv/live/MN_pull/master.m3u8
+#PLAYLIST:HindiMusic
+#EXTINF:-1 tvg-id="" tvg-name="9xm" tvg-logo="" group-title="HindiMusic",9xm
+https://load.airtelxstream.in/9xm/smil:common.smil/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="9xjalwa" tvg-logo="" group-title="HindiMusic",9xjalwa
+https://load.airtelxstream.in/9xjalwa/smil:common.smil/index.m3u8
+#PLAYLIST:Hindi News
+#EXTINF:-1 tvg-id="" tvg-name="ZEENEWS" tvg-logo="" group-title="Hindi News",ZEENEWS
+http://dx3.gcdn.co/hindi-ZEENEWS/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ZEENEWS" tvg-logo="" group-title="Test",ZEENEWS
+http://dx3.gcdn.co/OSNWWE/index.m3u8  
