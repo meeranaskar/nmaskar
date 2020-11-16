@@ -237,6 +237,14 @@ https://load.airtelxstream.in/tv9kannada/smil:common.smil/chunklist_b564000_DVR_
 http://livemedia.ios.wowstream.in:1935/ka-prajaa/prajaa-news/chunklist_w2063579686.m3u8
 #EXTINF:-1 tvg-logo="https://livetvcentral.com/imgs/tvs/338.jpg" group-title="Kannada",News18 kannada
 https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="TV9 KANNADA" tvg-logo="" group-title="Kannada",TV9 KANNADA
+https://load.airtelxstream.in/tv9kannada/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="udayatv" tvg-logo="" group-title="Kannada",udayatv
+https://load.airtelxstream.in/udayatv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="udayamusic" tvg-logo="" group-title="Kannada",udayamusic
+https://load.airtelxstream.in/udayamusic/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="colorskannada" tvg-logo="" group-title="Kannada",colorskannada
+https://load.airtelxstream.in/colorskannada/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 
 #PLAYLIST:Bangla
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Bangla",DDBangla
