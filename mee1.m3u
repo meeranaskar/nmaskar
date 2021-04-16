@@ -20,7 +20,8 @@ http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
 #EXTINF:0 tvg-id="11" tvg-country="CA" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="Islam",IIPC TV
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
-#EXTM3U 
+#EXTINF:0 tvg-id="11" tvg-country="CA" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="Islam",EMAN TV
+https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/chunks.m3u8
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://austamil.tv/wp-content/uploads/2020/04/aus-tamil-HD-New-e1586081963171.png", AUS TAMIL
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
