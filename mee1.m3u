@@ -22,6 +22,84 @@ https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/chunks.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
 
+#EXTINF:-1 group-title="Kids",3ABN KIDS TV
+https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/hAgaVPa.jpg",Akaram Kidz
+http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png",Cbeebies
+http://51.52.156.22:8888/http/003
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png",CCTV中国中央电视台-14 少儿
+http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png",CCTV中国中央电视台-14 少儿
+http://117.148.187.37/PLTV/88888888/224/3221226565/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png",CCTV中国中央电视台-14 少儿
+http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png",CCTV中国中央电视台-14 少儿
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png",ch 23 החינוכית
+https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-kids.png?1212",GEM Kids
+http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png",IBC Kids
+https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="http://i5.satexpat.com/cha/kw/ktv-kids-95x77.gif",KTV Kids
+https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/tfc2BYM.png",Kuriakos Kids
+http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
+#EXTINF:-1 group-title="Kids",Lale
+http://stream.atr.ua/lale//live/index.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/NM0QWA0.png",Sat 7 Kids
+http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/RzPOwqI.png",Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/wOxnItQ.png",Taha TV
+https://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
+#EXTINF:-1 group-title="Kids",TCT Kids
+https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
+#EXTINF:-1 group-title="Kids",WOW!TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/7sUmqv2.png",WZra Kids TV
+http://wpso.com:1936/hls/kidshd.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="https://iptvx.one/icn/maliatko-tv.png",Малятко TV
+http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
+#EXTINF:-1 group-title="Kids",优漫卡通
+http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8
+#EXTINF:-1 group-title="Kids",优漫卡通
+http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
+#EXTINF:-1 group-title="Kids",优漫卡通
+http://121.31.30.90:8085/ysten-business/live/youmankaton/yst.m3u8
+#EXTINF:-1 group-title="Kids",优漫卡通
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
+#EXTINF:-1 group-title="Kids",北京卡酷少儿
+http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8
+#EXTINF:-1 group-title="Kids",北京卡酷少儿
+http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
+#EXTINF:-1 group-title="Kids",北京卡酷少儿
+http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="http://www.jiajiakt.com/images/global/logo.png",嘉佳卡通
+http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
+#EXTINF:-1 group-title="Kids",嘉佳卡通
+http://117.148.187.37/PLTV/88888888/224/3221226461/index.m3u8
+#EXTINF:-1 group-title="Kids",炫动卡通
+http://121.31.30.90:8085/ysten-business/live/xuandongkaton/1.m3u8
+#EXTINF:-1 group-title="Kids",炫动卡通
+http://121.31.30.90:8085/ysten-business/live/xuandongkaton/yst.m3u8
+#EXTINF:-1 group-title="Kids",炫动卡通
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8
+#EXTINF:-1 group-title="Kids",福州少儿
+http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 group-title="Kids",金鹰卡通
+http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8
+#EXTINF:-1 group-title="Kids",金鹰卡通
+http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8
+#EXTINF:-1 group-title="Kids",金鹰卡通
+http://121.31.30.90:8085/ysten-business/live/jinyingkaton/yst.m3u8
+#EXTINF:-1 group-title="Kids",金鹰卡通
+http://223.82.250.72/live/jinyingkaton/1.m3u8
+#EXTINF:-1 group-title="Kids",金鹰卡通
+http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8
+#EXTINF:-1 group-title="Kids" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg",黑莓动画 (Backup)
+http://121.31.30.90:8085/ysten-business/live/donghuawg/1.m3u8
 #EXTINF:0, group-title="Tamil;Local" tvg-logo="http://www.tamilvision.tv/Images/logo.png",TAMIL VISION TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -732,50 +810,18 @@ https://de1se01.v2beat.live/playlist.m3u8
 #PLAYLIST:Kannada
 #EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Suvarna_News_New_Logo.jpg/220px-Suvarna_News_New_Logo.jpg" group-title="Kannada",Suvarna
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/chunks.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://publictv.in/wp-content/uploads/2020/08/Untitled-design-29-80x80.png" group-title="Kannada",PublicTV
-https://vidcdn.vidgyor.com/publictv-origin/liveabr/publictv-origin/live1/chunks.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://d2jo35ozacw6sq.cloudfront.net/wp-content/uploads/2018/04/Tv9-Kannada.png" group-title="Kannada",TV9kannada
-https://load.airtelxstream.in/tv9kannada/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-logo="http://prajaatvkannada.com/wp-content/uploads/2019/03/1-300x196.png" group-title="Kannada",Prajaa TV kannada
 http://livemedia.ios.wowstream.in:1935/ka-prajaa/prajaa-news/chunklist_w2063579686.m3u8
 #EXTINF:-1 tvg-logo="https://livetvcentral.com/imgs/tvs/338.jpg" group-title="Kannada",News18 kannada
 https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="TV9 KANNADA" tvg-logo="" group-title="Kannada",TV9 KANNADA
-https://load.airtelxstream.in/tv9kannada/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="udayatv" tvg-logo="" group-title="Kannada",udayatv
-https://load.airtelxstream.in/udayatv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="udayamusic" tvg-logo="" group-title="Kannada",udayamusic
-https://load.airtelxstream.in/udayamusic/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="colorskannada" tvg-logo="" group-title="Kannada",colorskannada
-https://load.airtelxstream.in/colorskannada/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 
 #PLAYLIST:Bangla
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Bangla",DDBangla
 https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 
 #PLAYLIST:Hindi
-#EXTINF:0 tvg-country="IN" tvg-logo="https://d2g0dpirr6ctpk.cloudfront.net/media_content/images/newlogo.png" group-title="Hindi",SonyMax
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://d2r4co1lu5hctj.cloudfront.net/media_content/images/logo-with-tagline1.png" group-title="Hindi",SonyWah
-https://load.airtelxstream.in/sonywah/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://d1nablaogokl1x.cloudfront.net/images/logo.png" group-title="Hindi",SonyMax2
-https://load.airtelxstream.in/sonymax2/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="http://dangaltv.enterr10tv.com/images/dangaltv_logo.png" group-title="Hindi",Dangal
-https://load.airtelxstream.in/dangal/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://www.9xjalwa.in/img/logo-9xm.png" group-title="Hindi",9xJalwa
-https://load.airtelxstream.in/9xjalwa/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/dabangg-tv-channel-logo-300x300.jpg" group-title="Hindi",Dabangg
-https://load.airtelxstream.in/dabanggtv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://zeebangla.zee5.com/wp-content/uploads/sites/8/2020/07/zee-bangla-1.png" group-title="Bangla",ZeeBangla
-https://load.airtelxstream.in/zeebanglacinema/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Hindi",Rang 
-https://load.airtelxstream.in/rang/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Hindi",Aajtak
 https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/aajtak_1/chunklist.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Hindi",CanadaOne
-http://cdn8.live247stream.com/canadaone/tv/canadaone/stream1/chunks.m3u8?nimblesessionid=323073366
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Hindi",IndiaTv News
-https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/ITV_1_1@199237/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/PRIMECANADA.png" tvg-country="IN" tvg-url="" group-title="Hindi",Prime Canada TV
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" tvg-country="IN" tvg-url="" group-title="Hindi",Boogle Bollywood
@@ -788,12 +834,6 @@ http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/mirror_now_in.png" tvg-country="IN" tvg-url="" group-title="EnglishMovie",Mirror Now
 https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/MNX.png" tvg-country="IN" tvg-url="" group-title="EnglishMovie",MNX
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/movies_now.png" tvg-country="IN" tvg-url="" group-title="EnglishMovie",Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cI0cw7m.png" group-title="EnglishMovie",MNX (New!)
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/romedy_now_in.png" tvg-country="IN" tvg-url="" group-title="EnglishMovie",Romedy Now
 https://timesnow.airtel.tv/live/RN_pull/master.m3u8
 
