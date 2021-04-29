@@ -6,14 +6,8 @@ http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 #EXTINF:-1 tvg-id="03" tvg-name="AR:BAHRAIN INTERNATIONAL" tvg-logo="http://webtvonlive.com/wp-content/uploads/bahrain-International-webtvonlive-com.jpg" group-title="Bahrain",AR:BAHRAIN INTERNATIONAL
 http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
-#EXTINF:0 tvg-id="04" tvg-country="IN" tvg-logo="https://zakirnaik.com/img/content/peacetv_network/Network_Logo_f.png" group-title="Islam",PeaceTV
-http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
 #EXTINF:0 tvg-name="Ayat TV" tvg-language="Hindi" tvg-country="SA" tvg-id="05" tvg-logo="http://www.ytvindia.com/images/index_02.png" group-title="Islam"
 http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
-#EXTINF:0 tvg-name="BritishMuslimTv" tvg-language="Hindi" tvg-country="SA" tvg-id="06" tvg-logo="http://www.ytvindia.com/images/index_02.png" group-title="Islam"
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/british_muslim_tv/hls1/index.m3u8
-#EXTINF:-1 tvg-id="0708" tvg-logo="https://m.guideus.tv/images/logo_hr.jpg" group-title="Islam", GuideUSTV
-http://stream.streamislam.com:8080/streamer/live/index.m3u8
 #EXTINF:-1 tvg-id="09" tvg-name="" tvg-logo="https://i.imgur.com/vn9jvdV.png" group-title="Islam",Africa TV2
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="" tvg-logo="https://i.imgur.com/vn9jvdV.png" group-title="Islam",Africa TV3
@@ -102,11 +96,6 @@ http://singamcloud.in:1935/rasinetwork/rasiclassic/playlist.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 
-#EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/6GxuWXT.png",Sana Plus
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
-http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
 #EXTINF:0 group-title="Tamil;Local" tvg-logo="https://i.imgur.com/zAQSZeC.png",Sana TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -581,37 +570,21 @@ http://217.21.0.215:8081/AlfajertvHDTwo_web/web/chunks.m3u8
 http://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="Tamil",Akaram Kidz
 http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="Tamil",Akaram Mix
-http://akaram.zecast.net/akaram-live/ngrp:akarammix1_all/chunklist.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Tamil",Rajplus
-https://load.airtelxstream.in/rajdigitalplus/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CKqup50.png" group-title="Tamil",7S Music (New!)
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LsacUVi.png" tvg-country="IN" tvg-url="" group-title="Tamil",Santhora TV
 http://rtmp.santhoratv.zecast.net/santhoratv/santhoratv/chunklist_w1802293946.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LsacUVi.png" tvg-country="IN" tvg-url="" group-title="Tamil",Santhora TV
 http://santhoratv.zecast.net/santhoratv/santhoratv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ABvVSga.png" group-title="Tamil",Akaram Galatta
-http://akaram.zecast.net/akaram-live/ngrp:akaramgalatta1_all/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/11/akaram1.png" tvg-country="IN" tvg-url="" group-title="Tamil",Akaram TV
-http://akaram.zecast.net/akaram-live/akaramnew2/playlist.m3u8
+
 #EXTINF:0 tvg-country="IN" tvg-logo="https://static.asianetnews.com/v1/images/tamil_logo.png" group-title="Tamil",AsianetTamil
 https://vidcdn.vidgyor.com/ptm-origin/aslive/chunks.m3u8
 #EXTINF:0 tvg-country="AU;US" tvg-logo="" group-title="Tamil",PuthiyaThalai
 https://vidcdn.vidgyor.com/ptm-origin/liveabr/ptm-origin/live1/chunks.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/jaya-plus-tamil-black.png" group-title="Tamil",Jayaplus
-https://load.airtelxstream.in/jayaplus/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://www.ethnicchannels.com/images/channels/jaya-max-final.jpg" group-title="Tamil",Jayamax
-https://load.airtelxstream.in/jayamax/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/40/Raj_TV_Tamil.png/250px-Raj_TV_Tamil.png" group-title="Tamil",Rajtv
-https://load.airtelxstream.in/rajtv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Tamil",POLIMER TV 
-https://load.airtelxstream.in/polimertv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Tamil",SunNews
-https://suntvlive.s.llnwi.net/SunNews/SunNews.isml/.m3u8?p=51&se=1603655517&e=1603684317&h=9a3675fb4eb161ff168647aa67bb301f&type=hd&PlayBackId=1369523392&cid=38926&country=BH&userid=24040898&nid=0&q=&bw=&dw=0&op=SUNNXT&did=wuGgLm/s2KnXtGW1Qx/uLg==
+
 #EXTINF:0 tvg-country="LK" tvg-logo="https://i.imgur.com/nqAvA6W.png" group-title="Tamil",Sooriyan TV
 http://cdn.jwplayer.com/videos/1m0nMXhZ-3SDdwqdV.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="" tvg-name="மக்கள் தொலைக்காட்சி" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Tamil" 
+#EXTINF:-1 tvg-id="" tvg-name="மக்கள் தொலைக்காட்சி" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg" group-title="Tamil",Makkal TV
 https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hp4PBUT.png" group-title="Tamil",KTV (New!)
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytamcla.stream_all/chunklist_w798628189_b232000.m3u8
@@ -627,12 +600,9 @@ http://103.199.160.85/Content/mktv/Live/Channel(MKTV)/index.m3u8
 http://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/VAANAVIL_TV.png" tvg-country="IN" tvg-url="" group-title="Tamil",Vaanavil TV
 https://live.wmncdn.net/vaanaviltv/live.stream/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7cQVVfj.png" group-title="Tamil",Peppers TV
-http://live.wmncdn.net/peppers/live.stream/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wcr5lhD.png" group-title="Tamil",Puthuyugam TV (New!)
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1HOUzgr.png" group-title="Tamil",Raj Digital Plus (New!)
-http://acv.asianetmobiletvplus.com/channels/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_hls/rajdigital_htfuqchouekpefzxodtbzaojtryxpqkx_master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/99vZY6B.png" group-title="Tamil",STS Tamil (New!)
 http://santhora.de.flash.glb.ipercast.net/santhora.de-live/sts/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jSWRXdg.png" group-title="Tamil",Tamil Vision Int'l (CA) (SD)
