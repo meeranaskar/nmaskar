@@ -21,85 +21,14 @@ https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/chunks.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="Flix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" tvg-url="" group-title="Movies",&Flix
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="" tvg-url="" group-title="Movies",&privé HD
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Kids",3ABN KIDS TV
 https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/hAgaVPa.jpg",Akaram Kidz
-http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/640px-CBeebies.svg.png",Cbeebies
-http://51.52.156.22:8888/http/003
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png",CCTV中国中央电视台-14 少儿
-http://117.148.187.37/PLTV/88888888/224/3221226126/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png",CCTV中国中央电视台-14 少儿
-http://117.148.187.37/PLTV/88888888/224/3221226565/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png",CCTV中国中央电视台-14 少儿
-http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/c8/CCTV-14_Logo.png",CCTV中国中央电视台-14 少儿
-http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/2880px-KanHinuchit.svg.png",ch 23 החינוכית
-https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/source1_2.5k/chunklist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.gemonline.tv/Assets/channels-box/gem-kids.png?1212",GEM Kids
-http://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png",IBC Kids
-https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="http://i5.satexpat.com/cha/kw/ktv-kids-95x77.gif",KTV Kids
-https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/tfc2BYM.png",Kuriakos Kids
-http://c2.manasat.com:1935/kkids/kkids3/FluxusTV.m3u8
-#EXTINF:-1 group-title="Kids",Lale
-http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/NM0QWA0.png",Sat 7 Kids
-http://unirtmp.tulix.tv:1935/sat7kids/sat7kids1/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/RzPOwqI.png",Spacetoon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/wOxnItQ.png",Taha TV
-https://tahalv.cdn.octivid.com/taha/smil:taha.smil/playlist.m3u8
-#EXTINF:-1 group-title="Kids",TCT Kids
-https://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/playlist.m3u8
-#EXTINF:-1 group-title="Kids",WOW!TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/7sUmqv2.png",WZra Kids TV
-http://wpso.com:1936/hls/kidshd.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://iptvx.one/icn/maliatko-tv.png",Малятко TV
-http://api.tv.ipnet.ua/api/v1/manifest/1311963260.m3u8?codec=mpeg4
-#EXTINF:-1 group-title="Kids",优漫卡通
-http://117.148.187.37/PLTV/88888888/224/3221226172/index.m3u8
-#EXTINF:-1 group-title="Kids",优漫卡通
-http://121.31.30.90:8085/ysten-business/live/youmankaton/1.m3u8
-#EXTINF:-1 group-title="Kids",优漫卡通
-http://121.31.30.90:8085/ysten-business/live/youmankaton/yst.m3u8
-#EXTINF:-1 group-title="Kids",优漫卡通
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/youmankaton/1.m3u8
-#EXTINF:-1 group-title="Kids",北京卡酷少儿
-http://117.148.187.37/PLTV/88888888/224/3221226184/index.m3u8
-#EXTINF:-1 group-title="Kids",北京卡酷少儿
-http://121.31.30.90:8085/ysten-business/live/kakukaton/1.m3u8
-#EXTINF:-1 group-title="Kids",北京卡酷少儿
-http://121.31.30.90:8085/ysten-business/live/kakukaton/yst.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.jiajiakt.com/images/global/logo.png",嘉佳卡通
-http://112.17.40.140/PLTV/88888888/224/3221226461/index.m3u8
-#EXTINF:-1 group-title="Kids",嘉佳卡通
-http://117.148.187.37/PLTV/88888888/224/3221226461/index.m3u8
-#EXTINF:-1 group-title="Kids",炫动卡通
-http://121.31.30.90:8085/ysten-business/live/xuandongkaton/1.m3u8
-#EXTINF:-1 group-title="Kids",炫动卡通
-http://121.31.30.90:8085/ysten-business/live/xuandongkaton/yst.m3u8
-#EXTINF:-1 group-title="Kids",炫动卡通
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xuandongkaton/1.m3u8
-#EXTINF:-1 group-title="Kids",福州少儿
-http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
-#EXTINF:-1 group-title="Kids",金鹰卡通
-http://117.148.187.37/PLTV/88888888/224/3221226190/index.m3u8
-#EXTINF:-1 group-title="Kids",金鹰卡通
-http://121.31.30.90:8085/ysten-business/live/jinyingkaton/1.m3u8
-#EXTINF:-1 group-title="Kids",金鹰卡通
-http://121.31.30.90:8085/ysten-business/live/jinyingkaton/yst.m3u8
-#EXTINF:-1 group-title="Kids",金鹰卡通
-http://223.82.250.72/live/jinyingkaton/1.m3u8
-#EXTINF:-1 group-title="Kids",金鹰卡通
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/jinyingkaton/1.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="http://www.nettv.live/uploads/19/1-191215202209426.jpg",黑莓动画 (Backup)
-http://121.31.30.90:8085/ysten-business/live/donghuawg/1.m3u8
 #EXTINF:0, group-title="Tamil;Local" tvg-logo="http://www.tamilvision.tv/Images/logo.png",TAMIL VISION TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
