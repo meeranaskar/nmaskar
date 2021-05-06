@@ -1,3 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="100" tvg-name="AsianetHD" tvg-country="India" tvg-language="Malayalam" group-title="Malayalam",Asianet HD
+#PLAYLIST:Islam
+#EXTINF:-1 tvg-id="01" tvg-name="MAKKAH" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/6c/a2/56/6ca256b1-58a8-782c-7057-984a820945df/source/512x512bb.jpg" group-title="Islam",MAKKAH
 http://clientarea.ltd:8011/Fahad20/39076880/64598
