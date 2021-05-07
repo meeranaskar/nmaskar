@@ -12,3 +12,14 @@ http://clientarea.ltd:8011/Fahad20/39076880/36047
 http://clientarea.ltd:8011/Fahad20/39076880/36048
 #EXTINF:-1 tvg-id="01" tvg-name="SuryaMovie" tvg-logo="" group-title="Malayalam",SuryaMovie
 http://clientarea.ltd:8011/Fahad20/39076880/44814
+#EXTINF:-1 tvg-id="01" tvg-name="SuryaMovie" tvg-logo="" group-title="Hindi",B4ukadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
+#EXTINF:-1 tvg-id="01" tvg-name="IndiaToday" tvg-logo="" group-title="News",Indiatoday
+https://feeds.intoday.in/hltapps/api/master.m3u8
+#EXTINF:-1 tvg-id="01" tvg-name="Loksabha" tvg-logo="" group-title="News",Loksabha
+http://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
+#EXTINF:-1 tvg-id="01" tvg-name="NDTV" tvg-logo="" group-title="News",NDTV
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-id="01" tvg-name="ThanthiTV" tvg-logo="" group-title="News",ThanthiTV
+https://vidcdn.vidgyor.com/thanthi-origin/liveabr/thanthi-origin/live2/chunks.m3u8
+
