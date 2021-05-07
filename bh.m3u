@@ -1,10 +1,14 @@
 #EXTM3U
 #PLAYLIST:Islam
-#EXTINF:-1 tvg-id="01" tvg-name="MAKKAH" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/6c/a2/56/6ca256b1-58a8-782c-7057-984a820945df/source/512x512bb.jpg" group-title="Islam",DD Malayalam
+#EXTINF:-1 tvg-id="01" tvg-name="DD Malayalam" tvg-logo="" group-title="Malayalam",DD Malayalam
 http://clientarea.ltd:8011/Fahad20/39076880/64598
-#EXTINF:-1 tvg-id="01" tvg-name="MAKKAH" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/6c/a2/56/6ca256b1-58a8-782c-7057-984a820945df/source/512x512bb.jpg" group-title="Islam",POGO
+#EXTINF:-1 tvg-id="01" tvg-name="Pogo" tvg-logo="" group-title="Kids",POGO
 http://clientarea.ltd:8011/Fahad20/39076880/64682
-#EXTINF:-1 tvg-id="01" tvg-name="MAKKAH" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/6c/a2/56/6ca256b1-58a8-782c-7057-984a820945df/source/512x512bb.jpg" group-title="Islam",NATGEO PEOPLE
+#EXTINF:-1 tvg-id="01" tvg-name="Natgeo People" tvg-logo="" group-title="Info",NATGEO PEOPLE
 http://clientarea.ltd:8011/Fahad20/39076880/61135
 #EXTINF:-1 tvg-id="01" tvg-name="Asianet" tvg-logo="" group-title="Malayalam",Asianet HD
 http://clientarea.ltd:8011/Fahad20/39076880/36047
+#EXTINF:-1 tvg-id="01" tvg-name="AsianetMovie" tvg-logo="" group-title="Malayalam",AsianetMovie
+http://clientarea.ltd:8011/Fahad20/39076880/36048
+#EXTINF:-1 tvg-id="01" tvg-name="SuryaMovie" tvg-logo="" group-title="Malayalam",SuryaMovie
+http://clientarea.ltd:8011/Fahad20/39076880/44814
