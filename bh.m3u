@@ -2,10 +2,44 @@
 #PLAYLIST:Islam
 #EXTINF:-1 tvg-id="01" tvg-name="DD Malayalam" tvg-logo="" group-title="Malayalam",DD Malayalam
 http://clientarea.ltd:8011/Fahad20/39076880/64598
-#EXTINF:-1 tvg-id="01" tvg-name="Pogo" tvg-logo="" group-title="Kids",POGO
-http://clientarea.ltd:8011/Fahad20/39076880/64682
+#EXTINF:-1 tvg-id="01" tvg-name="MTV_Beats" tvg-logo="" group-title="Music",MTV Beats
+http://clientarea.ltd:8011/Fahad20/39076880/64675
+#EXTINF:-1 tvg-id="01" tvg-name="Enterr10" tvg-logo="" group-title="Movie",Enterr10
+http://clientarea.ltd:8011/Fahad20/39076880/64581
+#EXTINF:-1 tvg-id="01" tvg-name="News18" tvg-logo="" group-title="News",News18
+http://clientarea.ltd:8011/Fahad20/39076880/64544
+#EXTINF:-1 tvg-id="01" tvg-name="ExclusiveDoc" tvg-logo="" group-title="Info",ExcDoc
+http://clientarea.ltd:8011/Fahad20/39076880/89534
+#EXTINF:-1 tvg-id="01" tvg-name="PlatinumDisc" tvg-logo="" group-title="Info",PlatinumDiscover
+http://clientarea.ltd:8011/Fahad20/39076880/89533
+#EXTINF:-1 tvg-id="01" tvg-name="PlatinumDisc2" tvg-logo="" group-title="Info",PlatinumDiscover2
+http://clientarea.ltd:8011/Fahad20/39076880/89532
+#EXTINF:-1 tvg-id="01" tvg-name="Pogo" tvg-logo="" group-title="Kids",Nicktoons
+http://clientarea.ltd:8011/Fahad20/39076880/81449
+#EXTINF:-1 tvg-id="01" tvg-name="Pogo" tvg-logo="" group-title="Kids",Nicklodeon
+http://clientarea.ltd:8011/Fahad20/39076880/81448
+#EXTINF:-1 tvg-id="01" tvg-name="NickJr" tvg-logo="" group-title="Kids",NickJr
+http://clientarea.ltd:8011/Fahad20/39076880/81447
+#EXTINF:-1 tvg-id="01" tvg-name="DisneyJr" tvg-logo="" group-title="Kids",DisneyJr
+http://clientarea.ltd:8011/Fahad20/39076880/81361
+#EXTINF:-1 tvg-id="01" tvg-name="Disney" tvg-logo="" group-title="Kids",Disney
+http://clientarea.ltd:8011/Fahad20/39076880/81360
+#EXTINF:-1 tvg-id="01" tvg-name="Travel" tvg-logo="" group-title="Info",Travel
+http://clientarea.ltd:8011/Fahad20/39076880/80814
+#EXTINF:-1 tvg-id="01" tvg-name="Lifetime" tvg-logo="" group-title="Entertainment",Lifetime
+http://clientarea.ltd:8011/Fahad20/39076880/81436
+#EXTINF:-1 tvg-id="01" tvg-name="Bether" tvg-logo="" group-title="Entertainment",Bether
+http://clientarea.ltd:8011/Fahad20/39076880/81076
+#EXTINF:-1 tvg-id="01" tvg-name="Miami" tvg-logo="" group-title="Entertainment",Miami
+http://clientarea.ltd:8011/Fahad20/39076880/81320
+#EXTINF:-1 tvg-id="01" tvg-name="HBO_family" tvg-logo="" group-title="Entertainment",HBO_family
+http://clientarea.ltd:8011/Fahad20/39076880/81351
 #EXTINF:-1 tvg-id="01" tvg-name="Natgeo People" tvg-logo="" group-title="Info",NATGEO PEOPLE
 http://clientarea.ltd:8011/Fahad20/39076880/61135
+#EXTINF:-1 tvg-id="01" tvg-name="Movieplex" tvg-logo="" group-title="Movie",Movieplex
+http://clientarea.ltd:8011/Fahad20/39076880/81488
+#EXTINF:-1 tvg-id="01" tvg-name="FXX" tvg-logo="" group-title="Movie",FXX
+http://clientarea.ltd:8011/Fahad20/39076880/81416
 #EXTINF:-1 tvg-id="01" tvg-name="Asianet" tvg-logo="" group-title="Malayalam",Asianet HD
 http://clientarea.ltd:8011/Fahad20/39076880/36047
 #EXTINF:-1 tvg-id="01" tvg-name="AsianetMovie" tvg-logo="" group-title="Malayalam",AsianetMovie
