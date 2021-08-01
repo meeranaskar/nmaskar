@@ -1444,3 +1444,70 @@ https://f8e7y4c6.ssl.hwcdn.net/mundohd/playlist.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" tvg-country="IN" tvg-url="" group-title="",ZEE TV HD
 https://z5amshls.akamaized.net/ztvme/tracks-v1a1/playlist.m3u8
+#EXTM3U
+#EXTINF:0 tvg-country="EG;MY" tvg-logo="" group-title="Undefined",Al Horreya,AL HORREYA TV (1920Ã—1080),EG | Al Horreya
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CD" tvg-logo="" group-title="Music",Afrobeats
+https://stream.ecable.tv/afrobeats/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CD" tvg-logo="" group-title="Undefined",BOSS BROTHERS TV
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="News",Echorouk News (480p)
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_720p/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",Echorouk TV (720p)
+https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/htatv/Echorouk_TV_HD_720p/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CM" tvg-logo="https://i.imgur.com/REJJHir.jpg" group-title="Undefined",Emergence TV (480p) [Not 24/7]
+http://connectiktv.ddns.net:5000/emergencetv/emergencetv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="DZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" group-title="Undefined",Ennahar TV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KE" tvg-logo="https://kenyatv.tech/wp-content/uploads/2021/04/GBS-TV-1.jpg" group-title="General",GBS TV [Not 24/7]
+https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="GH" tvg-logo="" group-title="Sport",GTV SPORT
+http://rv.imax.re:80/307241010527/307241010527/84967?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KE" tvg-logo="https://kenyatv.tech/wp-content/uploads/2021/04/K24-1.jpg" group-title="General",K24 [Not 24/7]
+https://5f4db0f94b000.streamlock.net/k24/myStream/chunklist_w333466763.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="SO" tvg-logo="https://www.saabtv.com/wp-content/uploads/2018/02/SaabTV_191x180transparent.png" group-title="Undefined",Kalsan TV
+https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="Undefined",MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/7dQmaj6.png" group-title="Undefined",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="News",Medi 1 TV Afrique (1080p)
+https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CM" tvg-logo="https://i.imgur.com/BuKv5Vj.png" group-title="Undefined",My TV Channel (576p)
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="Sport",NEELAIN SPORT
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12224?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CM" tvg-logo="https://i.imgur.com/mvgRAZw.jpg" group-title="Music",Play TV (480p)
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="SO" tvg-logo="https://www.puntlandtvradio.net/wp-content/uploads/2016/04/cropped-puntlandtv1-1.png" group-title="Undefined",Puntland TV
+https://ap02.iqplay.tv:8082/iqb8002/p2t25/chunks.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="SO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="Undefined",Somali National TV
+https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="SO" tvg-logo="http://shaashada.com/images/somalicable.png" group-title="Undefined",Somali cable
+https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="UG" tvg-logo="" group-title="Sport",SuperSport Cricket FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/99431?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="UG" tvg-logo="" group-title="Sport",SuperSport La Liga FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/99434?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="UG" tvg-logo="" group-title="Sport",SuperSport Premier League FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/99436?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="UG" tvg-logo="" group-title="Sport",SuperSport Tennis FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/99438?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="UG" tvg-logo="" group-title="Sport",SuperSport Variety 3 FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/99444?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="UG" tvg-logo="" group-title="Sport",SuperSport Variety 4 FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/99445?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="ZM" tvg-logo="https://www.znbc.co.zm/wp-content/uploads/2018/10/cropped-ZNBC-logo-192x192.png" group-title="Undefined",TV1 (540p)
+https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013574/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="ZM" tvg-logo="https://www.znbc.co.zm/wp-content/uploads/2018/10/cropped-ZNBC-logo-192x192.png" group-title="Undefined",TV4 (720p)
+https://dcunilive258-lh.akamaihd.net/i/dclive_1@348579/master.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KE" tvg-logo="https://tv47.co.ke/wp-content/uploads/2020/10/tv-47-logo-600-e1617870103726.png" group-title="General",TV47
+https://iptv--iptv.repl.co/streamlink?url=https://www.twitch.tv/tv47kenya/&checkedby:iptvcat.net
+#EXTINF:0 tvg-country="NE" tvg-logo="" group-title="Undefined",TÃ©lÃ© Sahel (480p)
+https://iptv--iptv.repl.co/French/tele_sahel/?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="KE" tvg-logo="https://kenyatv.tech/wp-content/uploads/2021/04/UTV-1.jpg" group-title="General",UTV [Not 24/7]
+https://goliveafrica.media:9998/live/6049f726546e1/index.m3u8?checkedby:iptvcat.net
+#EXTINF:0 tvg-country="CM" tvg-logo="https://i.imgur.com/FekWmTu.jpg" group-title="Undefined",Vision 4
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8?checkedby:iptvcat.net
+
+
