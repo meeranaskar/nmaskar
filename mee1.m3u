@@ -100,3 +100,5 @@ https://iptv--iptv.repl.co/French/tele_sahel/?checkedby:iptvcat.net
 https://goliveafrica.media:9998/live/6049f726546e1/index.m3u8?checkedby:iptvcat.net
 #EXTINF:0 tvg-country="CM" tvg-logo="https://i.imgur.com/FekWmTu.jpg" group-title="Undefined",Vision 4
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8?checkedby:iptvcat.net
+#EXTINF:-1 tvg-id="Moods.fr" tvg-name="Moods" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" tvg-url="" group-title="",Moods
+https://alchimie-moods-1-fr.samsung.wurl.com/manifest/playlist.m3u8
