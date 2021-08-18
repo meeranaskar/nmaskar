@@ -34,8 +34,44 @@ http://air.pc.cdn.bitgravity.com/air/live/pbaudio004/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/pQ7nl12.png" group-title="Radio",Aljazeera
 http://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8
 
-#EXTINF:-1 group-title="Kids",3ABN KIDS TV
-https://moiptvhls-i.akamaihd.net/hls/live/652318/secure/master.m3u8
+
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="AustraliaChannel.au" tvg-name="Australia Channel" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",Australia Channel (720p)
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News (576p)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International (720p)
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",DW English (720p)
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+#EXTINF:-1 tvg-id="EuronewsinEnglish.fr" tvg-name="Euronews in English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="News",Euronews in English (720p)
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English (576p)
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="RT.ru" tvg-name="RT" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT (720p)
+https://rt-news.secure.footprint.net/1103.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.de" tvg-name="The Pet Collective" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Family",The Pet Collective (720p)
+https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (1080p)
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-id="TVBRICSEnglish.ru" tvg-name="TV BRICS English" tvg-country="INT" tvg-language="Russian;English" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",TV BRICS English (1080p)
+https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="Hindi Music",MUSIC INDIA
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/pQ7nl12.png" group-title="News",NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" group-title="Radio",Hello FM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/pQ7nl12.png" group-title="Radio",Chennai FM
+
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio004/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/pQ7nl12.png" group-title="Radio",Aljazeera
+http://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/hAgaVPa.jpg",Akaram Kidz
 #EXTINF:0, group-title="Tamil;Local" tvg-logo="http://www.tamilvision.tv/Images/logo.png",TAMIL VISION TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
