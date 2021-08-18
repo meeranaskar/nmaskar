@@ -33,6 +33,43 @@ https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio004/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/pQ7nl12.png" group-title="Radio",Aljazeera
 http://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
+http://ott-cdn.ucom.am/s23/index.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (1080p)
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="AustraliaChannel.au" tvg-name="Australia Channel" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",Australia Channel (720p)
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
+#EXTINF:-1 tvg-id="BBCWorldNews.uk" tvg-name="BBC World News" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Nx0BRdV.png" group-title="News",BBC World News (576p)
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International (720p)
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW English" tvg-country="INT" tvg-language="English" tvg-logo="" group-title="News",DW English (720p)
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+#EXTINF:-1 tvg-id="EuronewsinEnglish.fr" tvg-name="Euronews in English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="News",Euronews in English (720p)
+https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="France24English.fr" tvg-name="France 24 English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="News",France 24 English (576p)
+https://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="RT.ru" tvg-name="RT" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/tyXIHlj.png" group-title="News",RT (720p)
+https://rt-news.secure.footprint.net/1103.m3u8
+#EXTINF:-1 tvg-id="ThePetCollective.de" tvg-name="The Pet Collective" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/Mk28uUy.png" group-title="Family",The Pet Collective (720p)
+https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (1080p)
+https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-id="TVBRICSEnglish.ru" tvg-name="TV BRICS English" tvg-country="INT" tvg-language="Russian;English" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",TV BRICS English (1080p)
+https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="" group-title="Hindi Music",MUSIC INDIA
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/pQ7nl12.png" group-title="News",NDTV Profit
+https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="" group-title="Radio",Hello FM
+https://air.pc.cdn.bitgravity.com/air/live/pbaudio022/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/pQ7nl12.png" group-title="Radio",Chennai FM
+
+http://air.pc.cdn.bitgravity.com/air/live/pbaudio004/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/pQ7nl12.png" group-title="Radio",Aljazeera
+http://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8
 
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
@@ -79,81 +116,6 @@ http://live-hls-audio-web-aje.getaj.net/VOICE-AJE/01.m3u8
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 
-#EXTM3U
-#EXTINF:0 tvg-country="EG;MY" tvg-logo="" group-title="Undefined",Al Horreya,AL HORREYA TV (1920×1080),EG | Al Horreya
-http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="CD" tvg-logo="" group-title="Music",Afrobeats
-https://stream.ecable.tv/afrobeats/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="CD" tvg-logo="" group-title="Undefined",BOSS BROTHERS TV
-http://51.254.199.122:8080/bossbrothersTV/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="News",Echorouk News (480p)
-https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/htatv/ECHOROUK_NEWS_720p/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="DZ" tvg-logo="" group-title="Undefined",Echorouk TV (720p)
-https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/htatv/Echorouk_TV_HD_720p/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="CM" tvg-logo="https://i.imgur.com/REJJHir.jpg" group-title="Undefined",Emergence TV (480p) [Not 24/7]
-http://connectiktv.ddns.net:5000/emergencetv/emergencetv/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="DZ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Ennahar_TV.svg/330px-Ennahar_TV.svg.png" group-title="Undefined",Ennahar TV
-http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="KE" tvg-logo="https://kenyatv.tech/wp-content/uploads/2021/04/GBS-TV-1.jpg" group-title="General",GBS TV [Not 24/7]
-https://goliveafrica.media:9998/live/6045ccbac3484/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="GH" tvg-logo="" group-title="Sport",GTV SPORT
-http://rv.imax.re:80/307241010527/307241010527/84967?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="KE" tvg-logo="https://kenyatv.tech/wp-content/uploads/2021/04/K24-1.jpg" group-title="General",K24 [Not 24/7]
-https://5f4db0f94b000.streamlock.net/k24/myStream/chunklist_w333466763.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="SO" tvg-logo="https://www.saabtv.com/wp-content/uploads/2018/02/SaabTV_191x180transparent.png" group-title="Undefined",Kalsan TV
-https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/SrvZduL.jpg" group-title="Undefined",MBC Masr 1
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/7dQmaj6.png" group-title="Undefined",MBC Masr 2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="MA" tvg-logo="" group-title="News",Medi 1 TV Afrique (1080p)
-https://5f72f3a9b06b7.streamlock.net/live/smil:medi1fr.smil/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="CM" tvg-logo="https://i.imgur.com/BuKv5Vj.png" group-title="Undefined",My TV Channel (576p)
-http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="SD" tvg-logo="" group-title="Sport",NEELAIN SPORT
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12224?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="CM" tvg-logo="https://i.imgur.com/mvgRAZw.jpg" group-title="Music",Play TV (480p)
-http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="SO" tvg-logo="https://www.puntlandtvradio.net/wp-content/uploads/2016/04/cropped-puntlandtv1-1.png" group-title="Undefined",Puntland TV
-https://ap02.iqplay.tv:8082/iqb8002/p2t25/chunks.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="SO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" group-title="Undefined",Somali National TV
-https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="SO" tvg-logo="http://shaashada.com/images/somalicable.png" group-title="Undefined",Somali cable
-https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="UG" tvg-logo="" group-title="Sport",SuperSport Cricket FHD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/99431?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="UG" tvg-logo="" group-title="Sport",SuperSport La Liga FHD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/99434?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="UG" tvg-logo="" group-title="Sport",SuperSport Premier League FHD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/99436?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="UG" tvg-logo="" group-title="Sport",SuperSport Tennis FHD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/99438?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="UG" tvg-logo="" group-title="Sport",SuperSport Variety 3 FHD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/99444?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="UG" tvg-logo="" group-title="Sport",SuperSport Variety 4 FHD
-http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/99445?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZM" tvg-logo="https://www.znbc.co.zm/wp-content/uploads/2018/10/cropped-ZNBC-logo-192x192.png" group-title="Undefined",TV1 (540p)
-https://dcunilive159-lh.akamaihd.net/i/dclive_1@1013574/master.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="ZM" tvg-logo="https://www.znbc.co.zm/wp-content/uploads/2018/10/cropped-ZNBC-logo-192x192.png" group-title="Undefined",TV4 (720p)
-https://dcunilive258-lh.akamaihd.net/i/dclive_1@348579/master.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="KE" tvg-logo="https://tv47.co.ke/wp-content/uploads/2020/10/tv-47-logo-600-e1617870103726.png" group-title="General",TV47
-https://iptv--iptv.repl.co/streamlink?url=https://www.twitch.tv/tv47kenya/&checkedby:iptvcat.net
-#EXTINF:0 tvg-country="NE" tvg-logo="" group-title="Undefined",Télé Sahel (480p)
-https://iptv--iptv.repl.co/French/tele_sahel/?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="KE" tvg-logo="https://kenyatv.tech/wp-content/uploads/2021/04/UTV-1.jpg" group-title="General",UTV [Not 24/7]
-https://goliveafrica.media:9998/live/6049f726546e1/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="CM" tvg-logo="https://i.imgur.com/FekWmTu.jpg" group-title="Undefined",Vision 4
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8?checkedby:iptvcat.net
-#EXTINF:-1 tvg-id="Moods.fr" tvg-name="Moods" tvg-country="FR" tvg-language="French" tvg-logo="https://i.imgur.com/zSdsBGc.jpg" tvg-url="" group-title="",Moods
-https://alchimie-moods-1-fr.samsung.wurl.com/manifest/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/hAgaVPa.jpg",Akaram Kidz
-http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8
-#EXTINF:-1 group-title="Kids",Lale
-http://stream.atr.ua/lale//live/index.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/RzPOwqI.png",Spacetoon
-https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="Movies",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="AndPrive.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="Movies",&privé HD
@@ -241,6 +203,8 @@ http://208.115.215.42/Sony_Max_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/in/SonyMax2.in.png" group-title="INDIA", SONY MAX 2
 http://208.115.215.42/Sony_Max_HD_02/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="OlympicsChannel.es" tvg-name="Olympics Channel" tvg-country="INT" tvg-language="English" tvg-logo="http://i.mjh.nz/.images/tv.7olympics.png" group-title="",Olympics Channel (1080p)
+https://iptv-all.lanesh4d0w.codes/special/olympics
 
  
 
