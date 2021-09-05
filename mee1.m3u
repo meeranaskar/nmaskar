@@ -36,7 +36,14 @@ https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/chunklist_w1550531622_b864000.m3u8
 #EXTINF:0 tvg-id="11" tvg-country="CA" tvg-logo="https://i.imgur.com/LlVTlw7.jpg" group-title="Islam",EMAN TV
 https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/chunks.m3u8
 
-
+#EXTINF:-1 tvg-id="DisneyChannel.id" tvg-name="Disney Channel" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="Kids",Disney Channel
+http://45.225.204.7:8000/play/a02k
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior
+http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="Kids",Baby TV
+http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
+#EXTINF:-1 tvg-country="" tvg-logo="https://www.adgully.com/img/400/52740_nick-jr.png.jpg" group-title="Kids",NICK JR
+http://5.255.90.184:2001/play/a04d
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -61,8 +68,7 @@ https://rt-news.secure.footprint.net/1103.m3u8
 https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (1080p)
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
-#EXTINF:-1 tvg-id="TVBRICSEnglish.ru" tvg-name="TV BRICS English" tvg-country="INT" tvg-language="Russian;English" tvg-logo="https://i.imgur.com/vLpm8tN.png" group-title="General",TV BRICS English (1080p)
-https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
+
 
 
 
@@ -137,8 +143,12 @@ https://d2gowxuvx77j6q.cloudfront.net/WAH.m3u8
 http://208.115.215.42/Utsav_Plus_HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Rishtey_Cineplex.png/revision/latest/scale-to-width-down/250?cb=20190308001642" group-title="Hindi",RISHTEY CINEPLEX
 https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex.m3u8
-
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhYDGfVQtUK6TgcgnmbF37iGtg75_ZCmcR5EmoJ4QU7lKhNJBWTasgLsUHA_Nk-P54IF4&usqp=CAU" group-title="Hindi",Color HD
+https://139.99.90.11:443/9186897972/454523/26
+#EXTINF:-1 tvg-id="ZeeWorld.in" tvg-name="Zee World" tvg-country="IN" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeUARtO6soJKjE7nu_KrsBcTU2_wk3_G7dcar1jcT4L6mwWXw4BvRB0sS9gkcofc2xUic&usqp=CAU" group-title="Hindi",Zee World
+https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
+#EXTINF:-1 group-title="Hindi" tvg-logo=https://tellyshowupdates.com/wp-content/uploads/2018/03/38322_1_home_big-2.jpg, &Pictures HD
+https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English Movies" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="English",&Flix
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
@@ -160,6 +170,57 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlis
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="priveHD.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="" tvg-url="" group-title="English Movies",&privé HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo=https://www.adgully.com/img/400/201906/3f7ztlui_400x400.jpg group-title="English Movies", and Flix HD
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id= tvg-logo=https://static.epg.best/in/AndPrive.in.png group-title="English Movies",and Prive
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-id="HBOMalaysia.us" tvg-name="HBO Malaysia" tvg-country="MY" tvg-language="" tvg-logo="https://static.epg.best/us/HBO.us.png" tvg-url="" group-title="English Movies",HBO Malaysia
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/400px-HBO_Family_Asia_logo.svg.png" group-title="English Movies", HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
+#EXTINF:-1 tvg-country="" tvg-logo="https://c3.klipartz.com/pngpicture/822/70/sticker-png-tv-
+channel-icons-pack-hbo-plus-black-thumbnail.png" group-title="English Movies",HBO Plus
+http://45.225.204.7:8000/play/a00i
+#EXTINF:-1 tvg-id="" tvg-name="Red By HBO HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/70/REDBYHBO.png" group-title="English Movies",HBO RED
+https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
+#EXTINF:-1 tvg-id="Thrill.My" tvg-name="Thrill" tvg-country="SAS" tvg-language="English" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png" tvg-url="" group-title="English Movies", Thrill
+http://50.7.161.82:8278/streams/d/thrill_pye/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN [Indonesia]" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/id/AXN.id.png" tvg-url="" group-title="English Movies",AXN 
+http://45.225.204.7:8000/play/a05e
+
+#EXTINF:-1 tvg-ID=TLC.id group-title="Lifestyle" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png",TLC
+https://mediasv.online/tvchannel_x1/hd-tlc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6Mjk6MTQgQU0maGFzaF92YWx1ZT0xc0tCSUNPSXlvK1pQQTNWRklOV0JRPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE5JmlkPWNoXzEwNTMx
+#EXTINF:-1 tvg-country="" tvg-logo="https://img.favpng.com/13/18/4/discovery-channel-logo-television-channel-discovery-inc-png-favpng-s7KJJLeavn2MtqhYeGf5rbYtH.jpg" group-title="Info",DISCOVERY CHANNEL HD
+http://45.225.204.7:8000/play/a02l
+#EXTINF:-1 tvg-country="" tvg-logo="https://img.favpng.com/13/18/4/discovery-channel-logo-television-channel-discovery-inc-png-favpng-s7KJJLeavn2MtqhYeGf5rbYtH.jpg" group-title="Info",DISCOVERY CHANNEL Tubo
+http://45.225.204.7:8000/play/a029
+#EXTINF:-1 tvg-country="" tvg-logo="https://img.favpng.com/13/18/4/discovery-channel-logo-television-channel-discovery-inc-png-favpng-s7KJJLeavn2MtqhYeGf5rbYtH.jpg" group-title="Info",DISCOVERY CHANNEL Asia
+https://mediasv.online/tvchannel_x1/discovery-asia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDk6MTc6NTggQU0maGFzaF92YWx1ZT1oTi9RblAyNi90Q0Qwb2pzMEE3T2F3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI3JmlkPWNoXzE2OTU2
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.pinimg.com/originals/50/47/55/5047550d7fe1c855dec048aa83be12ae.png" group-title="Info",ANIMAL PLANET
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-country="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Info",ANIMAL PLANET HD
+http://89.216.39.29:8001/
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778" tvg-url="" group-title="Info",History Channel 
+https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/1/20/12/imgbin-da-vinci-learning-television-channel-mona-lisa-others-3B4K0Ug0ZF0JFdqfTCxW06rnU.jpg" group-title="Info",DA VINCI
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Smithsonian Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Smithsonian_logo_color.svg/516px-Smithsonian_logo_color.svg.png" group-title="info",Smithsonian Channel
+https://znjjprwzgeyyp.vidio.com/hls-p/ingest_6550_720p/index.m3u8
+#EXTINF:-1 tvg-id="nationalgeographicchannelhd.id" tvg-name="Nat Geo HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="Info",Nat Geo HD
+http://45.225.204.7:8000/play/a05q
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/550_300.png" group-title="Info",NAT GEO wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature 4K" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/170px-Love_Nature_TV.png" group-title="Info",Love Nature 4K
+http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:0 tvg-country="US" tvg-logo="https://image.roku.com/developer_channels/prod/c0dda8886e121608052fb46c4cbfd3568880a1917c4cfbea8de48c82cef3c3a1.png" group-title="Food",Food 52
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/440px-Asian_Food_Network.svg.png" group-title="TV PREMIUM",AFN
+https://mediasv.online/tvchannel_x2/hd-afc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6Mjc6NTIgQU0maGFzaF92YWx1ZT0vUHhkdUFCNDY4Tkd3bVlVYWY4QXV3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE5JmlkPWNoXzUyNzE3
+EXTINF:-1 tvg-id=" " group-title="" tvg-logo="https://i.ytimg.com/vi/mtb4LOx1I3M/hqdefault.jpg", Nyonya Cooking
+https://www.youtube.com/c/nyonyacooking/playlists.m3u8|Referer=https://www.youtube.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://masmiri.50webs.com/chinesefood2.png" group-title="Food",李子柒Food
+https://www.youtube.com/playlist?list=PLPJbGPTBfsdPCQZ0HWGngmRID5Fr9YpgN|Referer=https://www.youtube.com
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 1 (1080p)
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
