@@ -68,6 +68,8 @@ https://rt-news.secure.footprint.net/1103.m3u8
 https://the-pet-collective-international-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr" tvg-name="TRT World" tvg-country="INT" tvg-language="English" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World (1080p)
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
+#EXTINF:-1 tvg-id="KBMT.us" tvg-name="12 News Beaumont TX (KBMT)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/boVFg14.jpg" group-title="News",12 News Beaumont TX (KBMT) (1080p)
+https://livevideo01.12newsnow.com/hls/live/2017379/newscasts/live.m3u8
 
 
 
@@ -151,11 +153,9 @@ https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/andpicssd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AndFlix.in" tvg-name="&Flix" tvg-country="IN" tvg-language="English Movies" tvg-logo="https://static.epg.best/in/AndFlix.in.png" group-title="English",&Flix
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:-1 tvg-id="AndPrive.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="English Movies",&privé HD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
-#EXTINF:-1 tvg-id="AndPrive.in" tvg-name="&privé HD" tvg-country="SAS" tvg-language="English" tvg-logo="https://static.epg.best/in/AndPrive.in.png" group-title="English Movies",&picturesHD
-https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
+https://f8e7y4c6.ssl.hwcdn.net/andprivehd/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.afaqs.com/all/news/images/news_story_grfx/2015/05/44266/pictures.jpg" group-title="English Movies", AND PICTURES HD 
 #http://185.71.64.167/307202106505/307202106505/83687
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/tracks-v1a1/index.m3u8
@@ -187,6 +187,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/RED/index.m3u8
 http://50.7.161.82:8278/streams/d/thrill_pye/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="AXN [Indonesia]" tvg-country="" tvg-language="" tvg-logo="http://static.epg.best/id/AXN.id.png" tvg-url="" group-title="English Movies",AXN 
 http://45.225.204.7:8000/play/a05e
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-name="24 Hour Free Movies" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/FiTdDp1.png" group-title="English Movies",24 Hour Free Movies (720p)
+https://d15690s323oesy.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/UDU-Plex/158.m3u8
 
 #EXTINF:-1 tvg-ID=TLC.id group-title="Lifestyle" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/338_144.png",TLC
 https://mediasv.online/tvchannel_x1/hd-tlc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6Mjk6MTQgQU0maGFzaF92YWx1ZT0xc0tCSUNPSXlvK1pQQTNWRklOV0JRPT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE5JmlkPWNoXzEwNTMx
@@ -215,12 +217,28 @@ http://bamus-eng-roku.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:0 tvg-country="US" tvg-logo="https://image.roku.com/developer_channels/prod/c0dda8886e121608052fb46c4cbfd3568880a1917c4cfbea8de48c82cef3c3a1.png" group-title="Food",Food 52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-food52/CDN/1280x720_5000000/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/440px-Asian_Food_Network.svg.png" group-title="TV PREMIUM",AFN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/440px-Asian_Food_Network.svg.png" group-title="Food",AFN
 https://mediasv.online/tvchannel_x2/hd-afc/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yLzIwMjEgMTI6Mjc6NTIgQU0maGFzaF92YWx1ZT0vUHhkdUFCNDY4Tkd3bVlVYWY4QXV3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTE5JmlkPWNoXzUyNzE3
 EXTINF:-1 tvg-id=" " group-title="" tvg-logo="https://i.ytimg.com/vi/mtb4LOx1I3M/hqdefault.jpg", Nyonya Cooking
 https://www.youtube.com/c/nyonyacooking/playlists.m3u8|Referer=https://www.youtube.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://masmiri.50webs.com/chinesefood2.png" group-title="Food",李子柒Food
 https://www.youtube.com/playlist?list=PLPJbGPTBfsdPCQZ0HWGngmRID5Fr9YpgN|Referer=https://www.youtube.com
+#EXTINF:-1 tvg-id="PlutoTVBBCFood.us" tvg-name="Pluto TV BBC Food" tvg-country="US" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5fb5844bf5514d0007945bda/colorLogoPNG.png" group-title="Food",Pluto TV BBC Food (720p)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+#EXTINF:-1 tvg-id="SoYummy.us" tvg-name="So Yummy!" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Mq7PBDN.png" group-title="Food",So Yummy! (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="STIRRGustoTV.us" tvg-name="STIRR Gusto TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/ygVGi3s.png" group-title="Food",STIRR Gusto TV (1080p)
+https://dai.google.com/linear/hls/event/tdSCy5u2R5WtCLXX4NwDtg/master.m3u8
+#EXTINF:-1 tvg-id="Tastemade.us" tvg-name="Tastemade" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Food",Tastemade (720p)
+https://tastemade-de-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeIndia.us" tvg-name="Tastemade (India)" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Food",Tastemade (India) (1080p)
+https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeInternationalAustralia.us" tvg-name="Tastemade International (Australia)" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Food",Tastemade International (Australia) (1080p)
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TastemadeTravel.us" tvg-name="Tastemade Travel" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Food",Tastemade Travel (720p)
+https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AmericasTestKitchen.us" tvg-name="America's Test Kitchen" tvg-country="US" tvg-language="English" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/all-channels/10272020/Americas_Test_Kitchen_190x190.png?raw=true" group-title="Food",America's Test Kitchen (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Sport",Abu Dhabi Sports 1 (1080p)
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
@@ -235,7 +253,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x43
 #EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-name="Adventure Sports TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HL7fwzt.png" tvg-url="" group-title="Sport",Adventure Sports TV (360p)
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Buisness",ET Now
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Buisness",NDTV Profit
@@ -245,6 +262,8 @@ https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprof
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Tamil News",Malaimurasu
 https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8?checkedby:hlscat.com
 
+#EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-name="100% Auto Moto TV" tvg-country="BG" tvg-language="Bulgarian;English" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" group-title="Auto",100% Auto Moto TV (1080p)
+http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
 
 
