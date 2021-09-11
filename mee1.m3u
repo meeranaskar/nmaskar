@@ -265,9 +265,27 @@ https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996
 #EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-name="100% Auto Moto TV" tvg-country="BG" tvg-language="Bulgarian;English" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" group-title="Auto",100% Auto Moto TV (1080p)
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="CanadaOne.ca" tvg-name="Canada One" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/zr6KoiS.jpg" tvg-url="" group-title="Canada",Canada One (720p)
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanadaStarTV.ca" tvg-name="Canada Star TV" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/3Q9Nxj1.jpg" tvg-url="" group-title="Canada",Canada Star TV (1080p)
+http://live.canadastartv.com:1935/canadastartv/canadastartv/playlist.m3u
+#EXTINF:-1 tvg-id="PeopleareAwesome.ca" tvg-name="People are Awesome" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/L6Bljv7.png" tvg-url="" group-title="Canada",People are Awesome
+https://jukin-peopleareawesome-2-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="DealornoDeal.ca" tvg-name="Deal or no Deal" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/soOgFFc.jpg" tvg-url="" group-title="Canada",Deal or no Deal
+https://endemol-dealornodeal-1-ca.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="Docurama.us" tvg-name="Docurama" tvg-country="NORAM" tvg-language="English" tvg-logo="https://i.imgur.com/W87cTZc.png" tvg-url="" group-title="Canada",Docurama (1080p)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="AFV Family" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f6cb0597d9e0745a204dc94" tvg-url="" group-title="Comedy",AFV Family
+https://linear-12.frequency.stream/dist/localnow/12/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="AFV.us" tvg-name="AFV!" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/j6XPh2U.png" tvg-url="" group-title="Comedy",AFV! (720p)
+https://linear-12.frequency.stream/dist/roku/12/hls/master/playlist.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/El2hhYb.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="Documentary",Al Jazeera Documentary (1080p) [Geo-blocked]
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pattrn" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f976cdcd40f5d6678647013" tvg-url="" group-title="Documentary",Pattrn
+https://linear-76.frequency.stream/dist/localnow/76/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sightline" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5f7b6665bf6bbf67610fbf02" tvg-url="" group-title="Documentary",Sightline
+https://linear-64.frequency.stream/dist/localnow/64/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Weather Gone Viral" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fdd3d8b9f3978154b03b203" tvg-url="" group-title="Documentary",Weather Gone Viral
+https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
