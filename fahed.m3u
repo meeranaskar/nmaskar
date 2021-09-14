@@ -114,3 +114,5 @@ http://dx3.gcdn.co/OSNWWE/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="geminitv" tvg-logo="" group-title="Telugu",geminitv
 https://load.airtelxstream.in/geminitv/smil:common.smil/chunklist_b564000_DVR_sleng.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="geminitv" tvg-logo="" group-title="Adult",BrXXX
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/32395 
