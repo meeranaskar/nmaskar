@@ -287,172 +287,119 @@ https://linear-64.frequency.stream/dist/localnow/64/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Weather Gone Viral" tvg-country="" tvg-language="" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fdd3d8b9f3978154b03b203" tvg-url="" group-title="Documentary",Weather Gone Viral
 https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
 
-#EXTINF:-1,IN: Star Sports 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Sports",IN: Star Sports 1 HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72041
-#EXTINF:-1,IN: Star Sports 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Sports",IN: Star Sports 2 HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72042
-#EXTINF:-1,IN: Star Sports 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Sports",IN: Star Sports 3 HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72043
-#EXTINF:-1,IN: Star Sports Select 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Sports",IN: Star Sports Select 1 HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72044
-#EXTINF:-1,IN: Star Sports Select 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Sports",IN: Star Sports Select 2 HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72045
-#EXTINF:-1,IN: Star Bharat HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",IN: Star Bharat HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72046
-#EXTINF:-1,IN: Star Jalsa HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",IN: Star Jalsa HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72047
-#EXTINF:-1,IN: Star Vijay HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Tamil",IN: Star Vijay HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72048
-#EXTINF:-1,IN: Star Pravah HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",IN: Star Pravah HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72049
-#EXTINF:-1,IN: Star Gold Select
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",IN: Star Gold Select
 http://new-pro.tv:8080/Hotel-2021/Allroom/72050
-#EXTINF:-1,In: Star Gold HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",In: Star Gold HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72051
-#EXTINF:-1,IN: Star Plus HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",IN: Star Plus HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72053
-#EXTINF:-1,IN: Star Vijay Super
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Tamil",IN: Star Vijay Super
 http://new-pro.tv:8080/Hotel-2021/Allroom/72056
-#EXTINF:-1,IN: Star Suvarna
-http://new-pro.tv:8080/Hotel-2021/Allroom/72057
-#EXTINF:-1,IN: Zee Tamil HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Tamil",IN: Zee Tamil HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72059
-#EXTINF:-1,In: Zee Cinema HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi Movies",In: Zee Cinema HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72060
-#EXTINF:-1,IN: Zee marathi HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/72061
-#EXTINF:-1,IN: Zee Bangla HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/72063
-#EXTINF:-1,In: Zee TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",In: Zee TV HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72064
-#EXTINF:-1,IN: Zee Telugu
-http://new-pro.tv:8080/Hotel-2021/Allroom/72065
-#EXTINF:-1,IN: Zee News
-http://new-pro.tv:8080/Hotel-2021/Allroom/72066
-#EXTINF:-1,IN: Zee Bangla Cinema
-http://new-pro.tv:8080/Hotel-2021/Allroom/72067
-#EXTINF:-1,IN: Zee Action HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",IN: Zee Action HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72068
-#EXTINF:-1,IN: ZEE Anmol Cinema
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",IN: ZEE Anmol Cinema
 http://new-pro.tv:8080/Hotel-2021/Allroom/72069
-#EXTINF:-1,IN: ZEE Keralam HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Malayalam",IN: ZEE Keralam HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72070
-#EXTINF:-1,IN: Sony Max HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",IN: Sony Max HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72072
-#EXTINF:-1,In: Sony Six HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Sports",In: Sony Six HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72073
-#EXTINF:-1,IN: Sony Ten 1 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Sports",IN: Sony Ten 1 HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72074
-#EXTINF:-1,IN: Sony Ten 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Sports",IN: Sony Ten 2 HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72075
-#EXTINF:-1,IN: Sony Ten 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Sports",IN: Sony Ten 3 HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72076
-#EXTINF:-1,IN: SONY SAB HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Sports",IN: SONY SAB HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72077
-#EXTINF:-1,In: Sony Pix HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="English Movie",In: Sony Pix HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72078
-#EXTINF:-1,IN: Sony Max 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",IN: Sony Max 2
 http://new-pro.tv:8080/Hotel-2021/Allroom/72079
-#EXTINF:-1,In: Colors HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",In: Colors HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72081
-#EXTINF:-1,IN: COLORS Super
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",IN: COLORS Super
 http://new-pro.tv:8080/Hotel-2021/Allroom/72082
-#EXTINF:-1,IN: Colors Gujrati
-http://new-pro.tv:8080/Hotel-2021/Allroom/72083
-#EXTINF:-1,IN: Colors Kannada HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/72084
-#EXTINF:-1,IN: Colors Bangla HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/72085
-#EXTINF:-1,In: Colors Marathi HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/72086
-#EXTINF:-1,IN: &flix TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="English Movie",IN: &flix TV
 http://new-pro.tv:8080/Hotel-2021/Allroom/73305
-#EXTINF:-1,In: B4U Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi Movies",In: B4U Movies
 http://new-pro.tv:8080/Hotel-2021/Allroom/72646
-#EXTINF:-1,In: B4U Music
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi Music",In: B4U Music
 http://new-pro.tv:8080/Hotel-2021/Allroom/72647
-#EXTINF:-1,In: Sony Entertainment HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",In: Sony Entertainment HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72653
-#EXTINF:-1,In: & Picture HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="English Movie",In: & Picture HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72654
-#EXTINF:-1,IN: PUBLIC MUSIC
-http://new-pro.tv:8080/Hotel-2021/Allroom/72656
-#EXTINF:-1,IN: Animal Planet HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Info",IN: Animal Planet HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72657
-#EXTINF:-1,IN: Zing
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi Music",IN: Zing
 http://new-pro.tv:8080/Hotel-2021/Allroom/72658
-#EXTINF:-1,IN: Zee BollyWood
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",IN: Zee BollyWood
 http://new-pro.tv:8080/Hotel-2021/Allroom/72659
-#EXTINF:-1,IN: Kairal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Malayalam",IN: Kairal
 http://new-pro.tv:8080/Hotel-2021/Allroom/72089
-#EXTINF:-1,IN: Kairal NEWS
-http://new-pro.tv:8080/Hotel-2021/Allroom/72091
-#EXTINF:-1,IN: Zee 24 Kala
-http://new-pro.tv:8080/Hotel-2021/Allroom/72092
-#EXTINF:-1,IN: Kalaignar ISAI ARUVI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Tamil",IN: Kalaignar ISAI ARUVI
 http://new-pro.tv:8080/Hotel-2021/Allroom/72093
-#EXTINF:-1,IN: ETV
-http://new-pro.tv:8080/Hotel-2021/Allroom/72096
-#EXTINF:-1,IN: Colors Cineplex HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",Colors Cineplex HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72097
-#EXTINF:-1,IN: Kerala Vision
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Malayalam",IN: Kerala Vision
 http://new-pro.tv:8080/Hotel-2021/Allroom/72099
-#EXTINF:-1,In: Asianet Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Malayalam",In: Asianet Plus
 http://new-pro.tv:8080/Hotel-2021/Allroom/72100
-#EXTINF:-1,In:  Asianet Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Malayalam",In:  Asianet Movies
 http://new-pro.tv:8080/Hotel-2021/Allroom/72101
-#EXTINF:-1,In: Zee Cafe HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="English",Zee Cafe HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72102
-#EXTINF:-1,In: Asianet News
-http://new-pro.tv:8080/Hotel-2021/Allroom/72103
-#EXTINF:-1,IN: 9X Jhakaas
-http://new-pro.tv:8080/Hotel-2021/Allroom/84086
-#EXTINF:-1,IN: 9XM
-http://new-pro.tv:8080/Hotel-2021/Allroom/84087
-#EXTINF:-1,IN: 9XM Jalwa
-http://new-pro.tv:8080/Hotel-2021/Allroom/84088
-#EXTINF:-1,IN: 9x Tashan
-http://new-pro.tv:8080/Hotel-2021/Allroom/84089
-#EXTINF:-1,IN: Music India
-http://new-pro.tv:8080/Hotel-2021/Allroom/84090
-#EXTINF:-1,IN: B4U Plus
-http://new-pro.tv:8080/Hotel-2021/Allroom/84091
-#EXTINF:-1,IN:  MTV India
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi Music",IN:  MTV India
 http://new-pro.tv:8080/Hotel-2021/Allroom/84092
-#EXTINF:-1,IN: &TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",IN: &TV HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/84093
-#EXTINF:-1,In: Sony Pal
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",In: Sony Pal
 http://new-pro.tv:8080/Hotel-2021/Allroom/84094
-#EXTINF:-1,IN: Set Max UK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",IN: Set Max UK
 http://new-pro.tv:8080/Hotel-2021/Allroom/84095
-#EXTINF:-1,IN: UTV Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi Movies",IN: UTV Movies
 http://new-pro.tv:8080/Hotel-2021/Allroom/84097
-#EXTINF:-1,IN: Rishtey Cine UK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi Movies",IN: Rishtey Cine UK
 http://new-pro.tv:8080/Hotel-2021/Allroom/84098
-#EXTINF:-1,IN: Sab TV UK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",IN: Sab TV UK
 http://new-pro.tv:8080/Hotel-2021/Allroom/84099
-#EXTINF:-1,IN: Sony TV Asia UK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",IN: Sony TV Asia UK
 http://new-pro.tv:8080/Hotel-2021/Allroom/84100
-#EXTINF:-1,IN: Star Utsav UK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",IN: Star Utsav UK
 http://new-pro.tv:8080/Hotel-2021/Allroom/84102
-#EXTINF:-1,IN: Sony MIX
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi",IN: Sony MIX
 http://new-pro.tv:8080/Hotel-2021/Allroom/84104
-#EXTINF:-1,IN: Movies OK
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="English Movie",IN: Movies OK
 http://new-pro.tv:8080/Hotel-2021/Allroom/84105
-#EXTINF:-1,IN: UTV Bindas
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Hindi Movies",IN: UTV Bindas
 http://new-pro.tv:8080/Hotel-2021/Allroom/84106
-#EXTINF:-1,IN: Zee Business
-http://new-pro.tv:8080/Hotel-2021/Allroom/84107
-#EXTINF:-1,IN: Zee Zindagi
-http://new-pro.tv:8080/Hotel-2021/Allroom/84109
-#EXTINF:-1,IN: Zindagi
-http://new-pro.tv:8080/Hotel-2021/Allroom/84112
-#EXTINF:-1,IN: Zoom
-http://new-pro.tv:8080/Hotel-2021/Allroom/84113
-#EXTINF:-1,In: Zee Zest
-http://new-pro.tv:8080/Hotel-2021/Allroom/84115
-#EXTINF:-1,IN: BP News UK
-http://new-pro.tv:8080/Hotel-2021/Allroom/84116
+
 #EXTINF:-1,IN: And TV UK
 http://new-pro.tv:8080/Hotel-2021/Allroom/84117
 #EXTINF:-1,IN: India TV
@@ -499,12 +446,6 @@ http://new-pro.tv:8080/Hotel-2021/Allroom/84146
 http://new-pro.tv:8080/Hotel-2021/Allroom/84147
 #EXTINF:-1,IN: MH Prime
 http://new-pro.tv:8080/Hotel-2021/Allroom/84148
-#EXTINF:-1,IN: Zee Punjabi Haryana
-http://new-pro.tv:8080/Hotel-2021/Allroom/84150
-#EXTINF:-1,IN: Zee Punjabi
-http://new-pro.tv:8080/Hotel-2021/Allroom/84151
-#EXTINF:-1,IN: Dabang TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/84152
 #EXTINF:-1,IN: MH One
 http://new-pro.tv:8080/Hotel-2021/Allroom/84155
 #EXTINF:-1,IN: Media One
@@ -521,55 +462,33 @@ http://new-pro.tv:8080/Hotel-2021/Allroom/84160
 http://new-pro.tv:8080/Hotel-2021/Allroom/84161
 #EXTINF:-1,IN: Takbeer TV UK
 http://new-pro.tv:8080/Hotel-2021/Allroom/84162
-#EXTINF:-1,IN: Teleugu Maa Movies UK
-http://new-pro.tv:8080/Hotel-2021/Allroom/84164
-#EXTINF:-1,IN: Teleugu Maa TV UK
-http://new-pro.tv:8080/Hotel-2021/Allroom/84165
-#EXTINF:-1,IN: ETV Telangana
-http://new-pro.tv:8080/Hotel-2021/Allroom/84166
-#EXTINF:-1,IN: Jaya TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Tamil",IN: Jaya TV
 http://new-pro.tv:8080/Hotel-2021/Allroom/84169
-#EXTINF:-1,IN: Dillagi Amrita
-http://new-pro.tv:8080/Hotel-2021/Allroom/84170
-#EXTINF:-1,IN: Maa Gold
-http://new-pro.tv:8080/Hotel-2021/Allroom/84171
-#EXTINF:-1,IN: Janam TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/84172
 #EXTINF:-1,IN: Polimer News
 http://new-pro.tv:8080/Hotel-2021/Allroom/84174
 #EXTINF:-1,IN: Jaya Movies HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/84175
-#EXTINF:-1,IN: Gemini Movies
-http://new-pro.tv:8080/Hotel-2021/Allroom/84177
-#EXTINF:-1,IN: Gemini TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/84178
 #EXTINF:-1,IN: Puthiya
 http://new-pro.tv:8080/Hotel-2021/Allroom/84182
 #EXTINF:-1,In: RAJ Musix
 http://new-pro.tv:8080/Hotel-2021/Allroom/84183
 #EXTINF:-1,In: NICK HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/84184
-#EXTINF:-1,IN: Santhora TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/84185
 #EXTINF:-1,IN: Pogo TV
 http://new-pro.tv:8080/Hotel-2021/Allroom/84188
 #EXTINF:-1,IN: Manoranjan Movies
 http://new-pro.tv:8080/Hotel-2021/Allroom/84189
 #EXTINF:-1,IN: Nick Jr
 http://new-pro.tv:8080/Hotel-2021/Allroom/84190
-#EXTINF:-1,In: Akaal Channel Punjabi
-http://new-pro.tv:8080/Hotel-2021/Allroom/84191
-#EXTINF:-1,IN: Big Magic
-http://new-pro.tv:8080/Hotel-2021/Allroom/84192
 #EXTINF:-1,IN: Hyder
 http://new-pro.tv:8080/Hotel-2021/Allroom/84193
-#EXTINF:-1,IN: Discovery Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Kids",IN: Discovery Kids
 http://new-pro.tv:8080/Hotel-2021/Allroom/84195
-#EXTINF:-1,IN: Discovery Science HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Info",discovery scienceHD
 http://new-pro.tv:8080/Hotel-2021/Allroom/84196
-#EXTINF:-1,IN: Discovery Turbo HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Info",IN: Discovery Turbo HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/84197
-#EXTINF:-1,IN: Discovery World HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Info",IN: Discovery World HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/84198
 #EXTINF:-1,IN: DSport
 http://new-pro.tv:8080/Hotel-2021/Allroom/84199
@@ -589,7 +508,7 @@ http://new-pro.tv:8080/Hotel-2021/Allroom/84205
 http://new-pro.tv:8080/Hotel-2021/Allroom/84206
 #EXTINF:-1,IN: Sony YAY
 http://new-pro.tv:8080/Hotel-2021/Allroom/84207
-#EXTINF:-1,IN: Travel XP HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Info",IN: Travel XP HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/84208
 #EXTINF:-1,IN: WOW Kidz
 http://new-pro.tv:8080/Hotel-2021/Allroom/84209
@@ -599,35 +518,19 @@ http://new-pro.tv:8080/Hotel-2021/Allroom/84212
 http://new-pro.tv:8080/Hotel-2021/Allroom/84213
 #EXTINF:-1,IN: DD Sports
 http://new-pro.tv:8080/Hotel-2021/Allroom/84214
-#EXTINF:-1,IN: SUN Music HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Tamil",IN: SUN Music HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/84215
-#EXTINF:-1,IN: Surya TV HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Malayalam",IN: Surya TV HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/84216
-#EXTINF:-1,IN: Udaya TV HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/84217
-#EXTINF:-1,IN: Sri TV LK
-http://new-pro.tv:8080/Hotel-2021/Allroom/84220
-#EXTINF:-1,IN: ABN Andhra Jyothy
-http://new-pro.tv:8080/Hotel-2021/Allroom/84221
-#EXTINF:-1,In: Asianet HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Malayalam",In: Asianet HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/72104
-#EXTINF:-1,In: Willow Cricket HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/72105
-#EXTINF:-1,IN-BD: Big Ganga
-http://new-pro.tv:8080/Hotel-2021/Allroom/178054
-#EXTINF:-1,IN-BD: Star Jalsa Movies
-http://new-pro.tv:8080/Hotel-2021/Allroom/178055
+
 #EXTINF:-1,IN: &Picture HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/178136
-#EXTINF:-1,IN: Asianet Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Malayalam",IN: Asianet Movies
 http://new-pro.tv:8080/Hotel-2021/Allroom/178135
-#EXTINF:-1,IN: Assamese Rengoni
-http://new-pro.tv:8080/Hotel-2021/Allroom/178056
-#EXTINF:-1,IN: B4U Bhojpuri
-http://new-pro.tv:8080/Hotel-2021/Allroom/178052
-#EXTINF:-1,IN: Baby TV HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/178057
-#EXTINF:-1,IN: BBC Earth HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Info",IN: BBC Earth HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/178058
 #EXTINF:-1,IN: BBO Classic HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/178059
@@ -643,36 +546,6 @@ http://new-pro.tv:8080/Hotel-2021/Allroom/178063
 http://new-pro.tv:8080/Hotel-2021/Allroom/178064
 #EXTINF:-1,IN: Colors Rishtey
 http://new-pro.tv:8080/Hotel-2021/Allroom/178065
-#EXTINF:-1,IN: DD Bihar
-http://new-pro.tv:8080/Hotel-2021/Allroom/178066
-#EXTINF:-1,IN: DD Chandana
-http://new-pro.tv:8080/Hotel-2021/Allroom/178067
-#EXTINF:-1,IN: DD girnar
-http://new-pro.tv:8080/Hotel-2021/Allroom/178068
-#EXTINF:-1,IN: DD Kisan
-http://new-pro.tv:8080/Hotel-2021/Allroom/178069
-#EXTINF:-1,IN: DD Rajasthan
-http://new-pro.tv:8080/Hotel-2021/Allroom/178070
-#EXTINF:-1,IN: DD Urdu
-http://new-pro.tv:8080/Hotel-2021/Allroom/178071
-#EXTINF:-1,IN: DD Yadagiri
-http://new-pro.tv:8080/Hotel-2021/Allroom/178072
-#EXTINF:-1,IN: Eawaz TV HD Canada
-http://new-pro.tv:8080/Hotel-2021/Allroom/178051
-#EXTINF:-1,IN: Epic
-http://new-pro.tv:8080/Hotel-2021/Allroom/178073
-#EXTINF:-1,IN: EZ Mall
-http://new-pro.tv:8080/Hotel-2021/Allroom/178074
-#EXTINF:-1,IN: Fox Life
-http://new-pro.tv:8080/Hotel-2021/Allroom/178075
-#EXTINF:-1,IN: India Voice
-http://new-pro.tv:8080/Hotel-2021/Allroom/178076
-#EXTINF:-1,IN: Ishwar TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/178078
-#EXTINF:-1,IN: Krishna Vaani
-http://new-pro.tv:8080/Hotel-2021/Allroom/178079
-#EXTINF:-1,IN: Lok Sabha TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/178080
 #EXTINF:-1,IN: MN+
 http://new-pro.tv:8080/Hotel-2021/Allroom/178132
 #EXTINF:-1,IN: Movies Now FHD
@@ -689,47 +562,23 @@ http://new-pro.tv:8080/Hotel-2021/Allroom/178085
 http://new-pro.tv:8080/Hotel-2021/Allroom/178086
 #EXTINF:-1,IN: PB: Pop Pataka HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/178087
-#EXTINF:-1,IN: Peace HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Islam",Peace HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/178088
 #EXTINF:-1,IN: Peace Music
 http://new-pro.tv:8080/Hotel-2021/Allroom/178089
 #EXTINF:-1,IN: PTC VR
 http://new-pro.tv:8080/Hotel-2021/Allroom/178134
-#EXTINF:-1,IN: Raj Pariwar
-http://new-pro.tv:8080/Hotel-2021/Allroom/178090
-#EXTINF:-1,IN: Rajasthan News
-http://new-pro.tv:8080/Hotel-2021/Allroom/178091
-#EXTINF:-1,IN: Republic Bharat
-http://new-pro.tv:8080/Hotel-2021/Allroom/178092
-#EXTINF:-1,IN: Republic TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/178093
-#EXTINF:-1,IN: Ruposhi Bangla
-http://new-pro.tv:8080/Hotel-2021/Allroom/178095
-#EXTINF:-1,IN: Sadhna TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/178096
-#EXTINF:-1,IN: Sangeet Marathi
-http://new-pro.tv:8080/Hotel-2021/Allroom/178097
-#EXTINF:-1,IN: Sanskaar TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/178098
-#EXTINF:-1,IN: Satsang
-http://new-pro.tv:8080/Hotel-2021/Allroom/178099
-#EXTINF:-1,IN: Show Box
-http://new-pro.tv:8080/Hotel-2021/Allroom/178100
-#EXTINF:-1,IN: Sonic Hindi
-http://new-pro.tv:8080/Hotel-2021/Allroom/178101
-#EXTINF:-1,IN: Sony Aath
-http://new-pro.tv:8080/Hotel-2021/Allroom/178102
 #EXTINF:-1,IN: Sony Ten 3 HD [Live]
 http://new-pro.tv:8080/Hotel-2021/Allroom/178103
 #EXTINF:-1,IN: Sony Ten 4
 http://new-pro.tv:8080/Hotel-2021/Allroom/178104
 #EXTINF:-1,IN: Star Sports 1 Hindi HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/178133
-#EXTINF:-1,IN: Surya Comedy
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Malayalam",IN: Surya Comedy
 http://new-pro.tv:8080/Hotel-2021/Allroom/178105
-#EXTINF:-1,IN: Surya Movies
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Malayalam",Surya Movies
 http://new-pro.tv:8080/Hotel-2021/Allroom/178106
-#EXTINF:-1,IN: Surya Music
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Malayalam",IN: Surya Music
 http://new-pro.tv:8080/Hotel-2021/Allroom/178107
 #EXTINF:-1,IN: The Q
 http://new-pro.tv:8080/Hotel-2021/Allroom/178108
@@ -739,41 +588,7 @@ http://new-pro.tv:8080/Hotel-2021/Allroom/178109
 http://new-pro.tv:8080/Hotel-2021/Allroom/178110
 #EXTINF:-1,IN: TLC World
 http://new-pro.tv:8080/Hotel-2021/Allroom/178053
-#EXTINF:-1,IN: Udaya Comedy
-http://new-pro.tv:8080/Hotel-2021/Allroom/178111
-#EXTINF:-1,IN: Udaya Music
-http://new-pro.tv:8080/Hotel-2021/Allroom/178112
-#EXTINF:-1,IN: UTV
-http://new-pro.tv:8080/Hotel-2021/Allroom/178113
-#EXTINF:-1,IN: UTV Action
-http://new-pro.tv:8080/Hotel-2021/Allroom/178114
-#EXTINF:-1,IN: Wion TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/178115
-#EXTINF:-1,IN: Zee 24 Kalak
-http://new-pro.tv:8080/Hotel-2021/Allroom/178116
-#EXTINF:-1,IN: Zee Anmol
-http://new-pro.tv:8080/Hotel-2021/Allroom/178117
-#EXTINF:-1,IN: Zee Bihar JH
-http://new-pro.tv:8080/Hotel-2021/Allroom/178118
-#EXTINF:-1,IN: Zee Bioskope
-http://new-pro.tv:8080/Hotel-2021/Allroom/178119
-#EXTINF:-1,IN: Zee Cinemalu
-http://new-pro.tv:8080/Hotel-2021/Allroom/178120
-#EXTINF:-1,IN: Zee Hindustan
-http://new-pro.tv:8080/Hotel-2021/Allroom/178121
-#EXTINF:-1,IN: Zee Magic
-http://new-pro.tv:8080/Hotel-2021/Allroom/178122
-#EXTINF:-1,IN: Zee MP
-http://new-pro.tv:8080/Hotel-2021/Allroom/178123
-#EXTINF:-1,IN: Zee Picchar
-http://new-pro.tv:8080/Hotel-2021/Allroom/178124
-#EXTINF:-1,IN: Zee Sarthak
-http://new-pro.tv:8080/Hotel-2021/Allroom/178125
-#EXTINF:-1,IN: Zee Smile
-http://new-pro.tv:8080/Hotel-2021/Allroom/178126
-#EXTINF:-1,IN: Zee Talkies HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/178127
-#EXTINF:-1,IN: Zee Thirai
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Tamil",IN: Zee Thirai
 http://new-pro.tv:8080/Hotel-2021/Allroom/178128
 #EXTINF:-1,IN: Zee TV Canada HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/178129
@@ -781,80 +596,14 @@ http://new-pro.tv:8080/Hotel-2021/Allroom/178129
 http://new-pro.tv:8080/Hotel-2021/Allroom/178130
 #EXTINF:-1,IN: Zee Yuva
 http://new-pro.tv:8080/Hotel-2021/Allroom/178131
-#EXTINF:-1,In: RAAVI
-http://new-pro.tv:8080/Hotel-2021/Allroom/71133
-#EXTINF:-1,In: KAY 2
-http://new-pro.tv:8080/Hotel-2021/Allroom/71134
-#EXTINF:-1,In: ARUJ TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/71135
-#EXTINF:-1,In: Kashish
-http://new-pro.tv:8080/Hotel-2021/Allroom/71136
-#EXTINF:-1,In: Khyber
-http://new-pro.tv:8080/Hotel-2021/Allroom/71137
-#EXTINF:-1,In: GEMINI comedy
-http://new-pro.tv:8080/Hotel-2021/Allroom/72661
-#EXTINF:-1,In: Gemini life
-http://new-pro.tv:8080/Hotel-2021/Allroom/72662
-#EXTINF:-1,In: PTC MUSIC
-http://new-pro.tv:8080/Hotel-2021/Allroom/72663
-#EXTINF:-1,In: PTC Punjabi GOLD
-http://new-pro.tv:8080/Hotel-2021/Allroom/72664
-#EXTINF:-1,IN-PB: PTC Simran
-http://new-pro.tv:8080/Hotel-2021/Allroom/72665
-#EXTINF:-1,In: ETV Life
-http://new-pro.tv:8080/Hotel-2021/Allroom/72667
-#EXTINF:-1,In: ETV Cinema
-http://new-pro.tv:8080/Hotel-2021/Allroom/72668
-#EXTINF:-1,In: WOW Cinema
-http://new-pro.tv:8080/Hotel-2021/Allroom/72669
-#EXTINF:-1,In: Raj Digital+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Tamil",In: Raj Digital+
 http://new-pro.tv:8080/Hotel-2021/Allroom/72670
-#EXTINF:-1,In: Raj TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Tamil",In: Raj TV
 http://new-pro.tv:8080/Hotel-2021/Allroom/72671
-#EXTINF:-1,IN: Udaya Movies
-http://new-pro.tv:8080/Hotel-2021/Allroom/72673
-#EXTINF:-1,In: Jaya Max
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Tamil",In: Jaya Max
 http://new-pro.tv:8080/Hotel-2021/Allroom/72674
-#EXTINF:-1,In: Jaya Plus
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Tamil",In: Jaya Plus
 http://new-pro.tv:8080/Hotel-2021/Allroom/72675
-#EXTINF:-1,IN-UK: NDTV 24x7
-http://new-pro.tv:8080/Hotel-2021/Allroom/112552
-#EXTINF:-1,IN-UK: Raj Digital Plus
-http://new-pro.tv:8080/Hotel-2021/Allroom/112549
-#EXTINF:-1,IN-UK: Raj TV
-http://new-pro.tv:8080/Hotel-2021/Allroom/112551
-#EXTINF:-1,IN: AAJ TAK
-http://new-pro.tv:8080/Hotel-2021/Allroom/112533
-#EXTINF:-1,IN: ABP Anada
-http://new-pro.tv:8080/Hotel-2021/Allroom/112559
-#EXTINF:-1,IN: BINDAS PLAY
-http://new-pro.tv:8080/Hotel-2021/Allroom/112531
-#EXTINF:-1,IN: Chardikla Time TV Punjabi
-http://new-pro.tv:8080/Hotel-2021/Allroom/112534
-#EXTINF:-1,IN: CNBC NEWS TV18
-http://new-pro.tv:8080/Hotel-2021/Allroom/112541
-#EXTINF:-1,IN: DD (Punjabi)
-http://new-pro.tv:8080/Hotel-2021/Allroom/112538
-#EXTINF:-1,IN: DD Bangla
-http://new-pro.tv:8080/Hotel-2021/Allroom/112536
-#EXTINF:-1,IN: DD Indian
-http://new-pro.tv:8080/Hotel-2021/Allroom/112539
-#EXTINF:-1,IN: DD News
-http://new-pro.tv:8080/Hotel-2021/Allroom/112540
-#EXTINF:-1,IN: Discovery Channel HD
-http://new-pro.tv:8080/Hotel-2021/Allroom/112560
-#EXTINF:-1,IN: ET NOW
-http://new-pro.tv:8080/Hotel-2021/Allroom/112542
-#EXTINF:-1,IN: Sanjhi Soch
-http://new-pro.tv:8080/Hotel-2021/Allroom/112543
-#EXTINF:-1,IN: India Today
-http://new-pro.tv:8080/Hotel-2021/Allroom/112544
-#EXTINF:-1,IN: Kannada Colors UK
-http://new-pro.tv:8080/Hotel-2021/Allroom/112561
-#EXTINF:-1,IN: MH1 Shradha
-http://new-pro.tv:8080/Hotel-2021/Allroom/112545
-#EXTINF:-1,IN: Raj News
-http://new-pro.tv:8080/Hotel-2021/Allroom/112550
 #EXTINF:-1,IN: SONY TEN 2 HD
 http://new-pro.tv:8080/Hotel-2021/Allroom/112553
 #EXTINF:-1,IN: Star Movies HD
@@ -863,6 +612,6 @@ http://new-pro.tv:8080/Hotel-2021/Allroom/112547
 http://new-pro.tv:8080/Hotel-2021/Allroom/112555
 #EXTINF:-1,IN: Zee Classic
 http://new-pro.tv:8080/Hotel-2021/Allroom/112556
-#EXTINF:-1,In: Sun TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Tamil",In: Sun TV
 http://new-pro.tv:8080/Hotel-2021/Allroom/72106
 
