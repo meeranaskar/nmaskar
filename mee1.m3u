@@ -6,13 +6,14 @@ https://mntv.livebox.co.in/mntvhls/mntv.m3u8?checkedby:hlscat.com
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://bk7l2pn7dx53-hls-live.5centscdn.com/austamil/fe01ce2a7fbac8fafaed7c982a04e229.sdp/chunks.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/hAgaVPa.jpg",Akaram Kidz
+
 #EXTINF:0, group-title="Tamil;Local" tvg-logo="http://www.tamilvision.tv/Images/logo.png",TAMIL VISION TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
-
+#EXTINF:1 "" group-title="Tamil;Local",3 Tamil TV
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 
 
 #EXTINF:-1 tvg-id="FlowersTV.in" tvg-name="Flowers TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://www.flowerstv.in/wp-content/uploads/2017/12/Flowers-Logo-alpha-1.png" group-title="Malayalam",Flowers TV (576p)
@@ -23,10 +24,6 @@ http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 http://210.210.155.35/qwr9ew/s/s28/01.m3u8
 #EXTINF:-1 tvg-id="02" tvg-name="MADINAH" tvg-logo="https://i.ytimg.com/vi/fzpywHj4IXk/hqdefault_live.jpg" group-title="Islam",MADINAH
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1 tvg-id="03" tvg-name="AR:BAHRAIN INTERNATIONAL" tvg-logo="http://webtvonlive.com/wp-content/uploads/bahrain-International-webtvonlive-com.jpg" group-title="Bahrain",AR:BAHRAIN INTERNATIONAL
-http://185.105.4.106:1935/live/Bahrain%20International/chunklist.m3u8
-#EXTINF:0 tvg-name="Ayat TV" tvg-language="Hindi" tvg-country="SA" tvg-id="05" tvg-logo="http://www.ytvindia.com/images/index_02.png" group-title="Islam"
-http://m.live.net.sa:1935/live/ayat/chunklist_w1642024713.m3u8
 #EXTINF:-1 tvg-id="09" tvg-name="" tvg-logo="https://i.imgur.com/vn9jvdV.png" group-title="Islam",Africa TV2
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="" tvg-logo="https://i.imgur.com/vn9jvdV.png" group-title="Islam",Africa TV3
@@ -40,10 +37,8 @@ https://cdn5.iqsat.net/iq/70cf8d50aaeb4efcd04a42de2762bf3b.sdp/chunks.m3u8
 http://45.225.204.7:8000/play/a02k
 #EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="Disney Junior" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="Kids",Disney Junior
 http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Baby TV" tvg-logo="https://mncvision.id/userfiles/image/channel/baby_tv.png" group-title="Kids",Baby TV
-http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
-#EXTINF:-1 tvg-country="" tvg-logo="https://www.adgully.com/img/400/52740_nick-jr.png.jpg" group-title="Kids",NICK JR
-http://5.255.90.184:2001/play/a04d
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.us" tvg-country="ASIA" tvg-language="English" tvg-logo="" group-title="Kids",Cartoon Network Asia (720p)
+http://198.16.106.62:8278/streams/d/Cn/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/BB93NQP.png" group-title="News",Al Jazeera English (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
@@ -200,8 +195,8 @@ http://45.225.204.7:8000/play/a029
 https://mediasv.online/tvchannel_x1/discovery-asia/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yOS8yMDIxIDk6MTc6NTggQU0maGFzaF92YWx1ZT1oTi9RblAyNi90Q0Qwb2pzMEE3T2F3PT0mdmFsaWRtaW51dGVzPTg2NDAwJnN0cm1fbGVuPTI3JmlkPWNoXzE2OTU2
 #EXTINF:-1 tvg-country="" tvg-logo="https://i.pinimg.com/originals/50/47/55/5047550d7fe1c855dec048aa83be12ae.png" group-title="Info",ANIMAL PLANET
 http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 tvg-country="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/377_144.png" group-title="Info",ANIMAL PLANET HD
-http://89.216.39.29:8001/
+#EXTINF:-1 tvg-country="" tvg-logo="https://i.pinimg.com/originals/50/47/55/5047550d7fe1c855dec048aa83be12ae.png" group-title="Info",Investigation discovery HD
+https://list.iptvcat.com/my_list/s/d502a6afe346a83d022254013af22b78.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://3dwarehouse.sketchup.com/warehouse/v1.0/publiccontent/458f4dc2-aa34-4605-b58a-edfcf49cf778" tvg-url="" group-title="Info",History Channel 
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.imgbin.com/1/20/12/imgbin-da-vinci-learning-television-channel-mona-lisa-others-3B4K0Ug0ZF0JFdqfTCxW06rnU.jpg" group-title="Info",DA VINCI
