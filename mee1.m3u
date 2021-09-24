@@ -338,3 +338,5 @@ https://f8e7y4c6.ssl.hwcdn.net/world/playlist.m3u8
 https://f8e7y4c6.ssl.hwcdn.net/zee5_originals/playlist.m3u8
 #EXTINF:-1 tvg-id="Zee5Romance.in" tvg-country="IN" tvg-language="" tvg-logo="" group-title="Hindi",Zee5 Romance (1080p)
 https://f8e7y4c6.ssl.hwcdn.net/zee5_romance/playlist.m3u8
+#EXTINF:-1 tvg-id="Zee5Originals.in" tvg-country="IN" tvg-language="" tvg-logo="" group-title="VOD",Dikkilona
+https://cdn1.einthusan.io/etv/content/D3Gg7.mp4.m3u8?e=1632523559&md5=asEbf-7YzWndnjHNkA7twQ
