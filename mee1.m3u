@@ -19,7 +19,8 @@ https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="FlowersTV.in" tvg-name="Flowers TV" tvg-country="IN" tvg-language="Malayalam" tvg-logo="http://www.flowerstv.in/wp-content/uploads/2017/12/Flowers-Logo-alpha-1.png" group-title="Malayalam",Flowers TV (576p)
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Tamil;Local",Velicham
+https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/f7J37yv.png" group-title="Tamil;Local",EET TV
 https://eu.streamjo.com/eetlive/eettv.m3u8
 
@@ -235,6 +236,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x43
 #EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-name="Adventure Sports TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HL7fwzt.png" tvg-url="" group-title="Sport",Adventure Sports TV (360p)
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
 #PLAYLIST:Buisness
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Buisness",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Buisness",ET Now
 https://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/master.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Buisness",NDTV Profit
