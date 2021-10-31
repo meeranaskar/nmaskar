@@ -220,6 +220,7 @@ https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxamericastestkitchen/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="TastemadeIndia.us" tvg-name="Tastemade (India)" tvg-country="US" tvg-language="" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Food",IN: Food Food
 http://new-pro.tv:8080/Hotel-2021/Allroom/84140
+
 #PLAYLIST:Sport
 #EXTINF:-1 tvg-id="Star Sports" tvg-name="Adventure Sports Network" tvg-country="US" tvg-language="English" tvg-logo="" tvg-url="" group-title="Sport",Star Sports1
 http://wagmaott.com:8080/chemsou-admin1OGrqVrhmf/WP5VOSNdlT/7869
@@ -237,6 +238,7 @@ https://admdn4ta.cdn.mgmlcdn.com/adsports4/smil:adsports4.stream.smil/playlist.m
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1 tvg-id="AdventureSportsTV.us" tvg-name="Adventure Sports TV" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/HL7fwzt.png" tvg-url="" group-title="Sport",Adventure Sports TV (360p)
 https://gizmeon.s.llnwi.net/channellivev3/live/master.m3u8?channel=275
+
 #PLAYLIST:Buisness
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Buisness",ET Now
 http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
@@ -248,6 +250,7 @@ https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprof
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="MY" tvg-language="English" tvg-logo="" group-title="Tamil News",Malaimurasu
 https://malaimurasucdn.purplestream.com/malaimurasu/49992ade0624eda468a31e137996d044.sdp/playlist.m3u8?checkedby:hlscat.com
+
 #PLAYLIST:Buisness
 #EXTINF:-1 tvg-id="100AutoMotoTV.bg" tvg-name="100% Auto Moto TV" tvg-country="BG" tvg-language="Bulgarian;English" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" group-title="Auto",100% Auto Moto TV (1080p)
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
