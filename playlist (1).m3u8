@@ -1,2 +1,7 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Sports",Cricket
 https://103.lfjustfor.xyz:8088/stream/lizata1/playlist.m3u8?vidictid=198137861891&id=43662&pk=3b476209f5522b667e0c89fe909d55d40c0f955ba1cdad76d01ba653e7479224
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Tamil",MakkalTV
+https://5k8q87azdy4v-hls-live.wmncdn.net/MAKKAL/271ddf829afeece44d8732757fba1a66.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="24HourFreeMovies.us" tvg-logo="https://i.imgur.com/iSVnzR1.png" group-title="Tamil",MoonTV
+https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/chunks.m3u8
