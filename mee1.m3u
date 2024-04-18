@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="Movies",MovieHD
+https://lnc-cinevault-80s.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="News",RT
+https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="Music",Isai Aruvi (576p)
 http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
 #EXTINF:-1 tvg-id="JayaPlus.in" tvg-logo="https://i.imgur.com/WLWD5p5.png" group-title="Undefined",Jaya Plus (1080p) [Not 24/7]
