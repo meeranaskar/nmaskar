@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="Movies",MovieHD
-https://lnc-cinevault-80s.tubi.video/playlist.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="News",RT
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="Music",Isai Aruvi (576p)
@@ -47,7 +45,6 @@ https://vasanth.pc.cdn.bitgravity.com/vasanth/secure/live/feed01/playlist.m3u8
 https://j78dp2pnlq5r-hls-live.comcities.net/ITNDigital/20a317b0496a4930b375290505e5d628.sdp/playlist_dvr.m3u8
 #EXTINF:-1 tvg-id="ZeeTamil.in" tvg-logo="https://i.imgur.com/KwTVqSe.png" group-title="Undefined",Zee Tamil (1080p) [Not 24/7]
 https://ythls.armelin.one/channel/UCxRRfF6qIoYntp3zNOozonQ.m3u8
-
 #EXTINF:-1 tvg-id="AmritaTV.in" tvg-logo="https://i.imgur.com/WdSjlPl.png" group-title="Entertainment",Amrita TV (720p)
 https://dr1zhpsuem5f4.cloudfront.net/master.m3u8
 #EXTINF:-1 tvg-id="AnandTV.uk" tvg-logo="https://i.imgur.com/5VOPFzs.png" group-title="General",Anand TV (720p) [Not 24/7]
@@ -137,7 +134,8 @@ http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:inputstream.adaptive.mime_type=application/vnd.apple.mpegurl
 https://eu.streamjo.com/eetlive/eettv.m3u8
-
+#EXTINF:-1 tvg-id="IsaiAruvi.in" tvg-logo="https://i.imgur.com/yO18FLo.png" group-title="Movies",MovieHD
+https://lnc-cinevault-80s.tubi.video/playlist.m3u8
 
 #EXTINF:0, group-title="Tamil;Local" tvg-logo="http://haritv.com/images/logo.png",HARI TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
