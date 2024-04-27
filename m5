@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="AltaghierTV.jo" tvg-logo="https://i.imgur.com/YTyCBvB.png" group-title="Undefined",Altaghier TV (1080p)
 #EXTVLCOPT:http-referrer=https://player.castr.com/
 https://stream.castr.com/63c63697632705047ffda2da/live_d33349a0962a11ed907dd9e556777b63/rewind-3600.m3u8
