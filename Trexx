@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U
 #EXTINF:-1, O-la-la
 http://31.148.48.15:80/O-la-la/index.m3u8?token=test
 #EXTINF:-1, Erox
