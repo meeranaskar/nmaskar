@@ -1,0 +1,114 @@
+#EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Music",Power Türk Akustik (1080p)
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkEnIyiler.tr" tvg-logo="https://i.imgur.com/CM2Z9lg.png" group-title="Music",Power Türk En Iyiler (1080p)
+https://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkSlow.tr" tvg-logo="https://i.imgur.com/tQSoQXW.png" group-title="Music",Power Türk Slow (1080p)
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="https://i.imgur.com/a5nW3HU.png" group-title="Music",Power Türk Taptaze (1080p)
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="https://i.imgur.com/XSL1gd7.png" group-title="Undefined",Power TV (1080p)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="https://i.imgur.com/9OPoXQG.png" group-title="Undefined",PowerTurk TV
+https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://i.imgur.com/nsYdri2.png" group-title="News",Press TV (720p)
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-logo="https://i.imgur.com/xsj8KHj.png" group-title="News",Press TV French (1080p)
+https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="QafTV.tr" tvg-logo="https://i.imgur.com/hrk7Uce.png" group-title="Undefined",Qaf TV (1080p)
+https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision2.qa" tvg-logo="https://i.imgur.com/iWJxDUm.png" group-title="General",Qatar Television 2 (720p)
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision.qa" tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="General",Qatar Television (720p)
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 tvg-id="QuranRadio.sa" tvg-logo="https://i.imgur.com/ut0kr4x.png" group-title="Undefined",Quran Radio (720p)
+https://edge.taghtia.com/sa/13.m3u8
+#EXTINF:-1 tvg-id="RadioAlbaladTV.ps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="Undefined",Radio Albalad TV (720p)
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioAlkulTV.sy" tvg-logo="https://i.imgur.com/Dj9UNFd.png" group-title="News",Radio Alkul TV (1080p) [Not 24/7]
+https://ffs.gulfsat.com/AlkulTV/video.m3u8
+#EXTINF:-1 tvg-id="RadioFannJordanCityView.jo" tvg-logo="https://i.imgur.com/kyUtYM4.png" group-title="Undefined",Radio Fann Jordan: City View (180p) [Not 24/7]
+http://188.247.86.66/RadioFann/CityView1/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioFannJordanControlStudio.jo" tvg-logo="https://i.imgur.com/WHhZTIe.png" group-title="Undefined",Radio Fann Jordan: Control Studio (220p) [Not 24/7]
+http://188.247.86.66/RadioFann/ControlStudio1/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioFannJordanStudio.jo" tvg-logo="https://cdn-profiles.tunein.com/s142626/images/logod.jpg" group-title="Undefined",Radio Fann Jordan: Studio (180p) [Not 24/7]
+http://188.247.86.66/RadioFann/OnAirStudio1/playlist.m3u8
+#EXTINF:-1 tvg-id="RJTV.us" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="Music",Radio Javan TV (1080p)
+http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioYaqeenJordanCityView.jo" tvg-logo="https://i.imgur.com/wHOQU0R.png" group-title="Undefined",Radio Yaqeen Jordan: City View (180p) [Not 24/7]
+http://188.247.86.66/MixFM/CityView1/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioYaqeenJordanControlStudio.jo" tvg-logo="https://i.imgur.com/s5VHg9W.png" group-title="Undefined",Radio Yaqeen Jordan: Control Studio (180p) [Not 24/7]
+http://188.247.86.66/MixFM/ControlStudio1/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioYaqeenJordanStudio.jo" tvg-logo="https://cdn-profiles.tunein.com/s199080/images/logod.png" group-title="Undefined",Radio Yaqeen Jordan: Studio (180p) [Not 24/7]
+http://188.247.86.66/MixFM/OnAirStudio1/playlist.m3u8
+#EXTINF:-1 tvg-id="RajeenTV.ps" tvg-logo="https://i.imgur.com/6Cx22ya.png" group-title="Undefined",Rajeen TV (1080p) [Not 24/7]
+https://mn-nl.mncdn.com/palabroad/live/playlist.m3u8
+#EXTINF:-1 tvg-id="RanTVIsrael.il" tvg-logo="https://i.ibb.co/yhY2TD5/IMG-20230629-135926.jpg" group-title="Entertainment",Ran TV Israel (720p)
+https://streaminglive.co.il:3730/live/raniamranilive.m3u8
+#EXTINF:-1 tvg-id="RehberTV.tr" tvg-logo="https://i.imgur.com/fpkaw78.png" group-title="Undefined",Rehber TV (720p)
+https://yayin30.haber100.com/live/rehbertv/playlist.m3u8
+#EXTINF:-1 tvg-id="RelevantTV.il" tvg-logo="https://i.imgur.com/jCZ5gFO.png" group-title="News",Relevant TV (1080p)
+https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/06e44cd7f7e0445fbd669f279c997fd4/index.mpd
+#EXTINF:-1 tvg-id="Channel13.il" tvg-logo="https://i.imgur.com/eFM3bTq.png" group-title="General",Reshet 13 (1080p)
+https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index.m3u8
+#EXTINF:-1 tvg-id="RIK1.cy" tvg-logo="https://i.imgur.com/31eq4lS.png" group-title="Undefined",RIK 1
+http://l6.cloudskep.com/tvb6/rik1-1/mpeg.2ts
+#EXTINF:-1 tvg-id="RIK2.cy" tvg-logo="https://i.imgur.com/EZUDmtI.png" group-title="Undefined",RIK 2
+http://l6.cloudskep.com/tvb6/rik2-1/mpeg.2ts
+#EXTINF:-1 tvg-id="RIKHD.cy" tvg-logo="https://i.imgur.com/xQnHaPy.png" group-title="Undefined",RIK HD (720p)
+http://l6.cloudskep.com/tvb6/rikhd1/mpeg.2ts
+#EXTINF:-1 tvg-id="RotanaCinemaEgypt.eg" tvg-logo="https://i.imgur.com/dGlKoLW.png" group-title="Movies",Rotana Cinema KSA (1080p)
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaKSA.sa" tvg-logo="https://i.imgur.com/pGgp38I.png" group-title="Movies",Rotana Cinema KSA (1080p)
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/pMMUvkt.png" group-title="Classic",Rotana Classic (1080p) [Geo-blocked]
+https://daiconnect.com/live/hls/rotana/classical/.m3u8
+#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://i.imgur.com/6HMluzv.png" group-title="Music",Rotana Khalijia (1080p) [Geo-blocked]
+https://daiconnect.com/live/hls/rotana/khaleejiya/.m3u8
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/2zFQbQi.png" group-title="Music",Rotana Music (1080p) [Geo-blocked]
+https://daiconnect.com/live/hls/rotana/music/.m3u8
+#EXTINF:-1 tvg-id="RotanaRadioJordanCityView.jo" tvg-logo="https://i.imgur.com/Tdq4LJk.png" group-title="Undefined",Rotana Radio Jordan: City View (180p) [Not 24/7]
+http://188.247.86.66/RotanaRadio/CityView1/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaRadioJordanControlStudio.jo" tvg-logo="https://i.imgur.com/uBXq5QD.png" group-title="Undefined",Rotana Radio Jordan: Control Studio (180p)
+http://188.247.86.66/RotanaRadio/ControlStudio1/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaRadioJordanStudio.jo" tvg-logo="https://i.imgur.com/xGDjlp5.png" group-title="Undefined",Rotana Radio Jordan: Studio (180p) [Not 24/7]
+http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaTarabJordanCityView.jo" tvg-logo="https://i.imgur.com/NjgOBts.png" group-title="Undefined",Rotana Tarab Jordan: City View (180p) [Not 24/7]
+http://188.247.86.66/RadioFann/Audio32/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaTarabJordanControlStudio.jo" tvg-logo="https://cdn-profiles.tunein.com/s257050/images/logod.jpg" group-title="Undefined",Rotana Tarab Jordan: Control Studio (180p) [Not 24/7]
+http://188.247.86.66/RotanaRadio/Audio32/playlist.m3u8
+#EXTINF:-1 tvg-id="RotanaPlusHD.sa" tvg-logo="https://i.imgur.com/b1piasb.png" group-title="General",Rotana+ (1080p)
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:-1 tvg-id="RoyaTV.jo" tvg-logo="https://i.imgur.com/WX80rty.png" group-title="General",Roya TV (1080p) [Not 24/7]
+https://shls-live-ak.akamaized.net/out/v1/f1d7243984224a7e94bc34ff60d9fd53/index.m3u8
+#EXTINF:-1 tvg-id="RudawTV.iq" tvg-logo="https://i.imgur.com/Zo3IWOn.png" group-title="News",Rudaw TV (1080p)
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RIKSat.cy" tvg-logo="https://i.imgur.com/BIKwFhD.png" group-title="Undefined",RΙΚ Sat (CYBC S) (720p) [Not 24/7]
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Safeer TV (1080p)
+https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SamaDubai.ae" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="General",Sama Dubai (1080p)
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SamaTV.sy" tvg-logo="https://i.imgur.com/9DoOxD0.png" group-title="General",Sama TV (578p) [Not 24/7]
+https://app.sama-tv.net/hls/samatv.m3u8
+#EXTINF:-1 tvg-id="SariyerTV.tr" tvg-logo="https://i.imgur.com/lfHVabz.png" group-title="Undefined",Sarıyer TV (360p)
+https://s01.vpis.io/sariyer/sariyer.m3u8
+#EXTINF:-1 tvg-id="Sat7Arabic.cy" tvg-logo="https://i.imgur.com/BzDjQeQ.png" group-title="Undefined",Sat 7 Arabic (240p)
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Sat7Kids.cy" tvg-logo="https://i.imgur.com/M0ik0i2.png" group-title="Kids",Sat 7 Kids (1080p)
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Sat7Pars.cy" tvg-logo="https://i.imgur.com/VTLQeul.png" group-title="Religious",Sat7 Pars (1080p)
+https://svs.itworkscdn.net/sat7parslive/sat7pars.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sat7Turk.cy" tvg-logo="https://i.imgur.com/cKQIK4i.png" group-title="Undefined",Sat7 Türk (1080p)
+https://svs.itworkscdn.net/sat7turklive/sat7turk.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="BricveSatrancTV.tr" tvg-logo="https://i.imgur.com/TXDV1ty.png" group-title="Undefined",Satranç TV (480p) [Not 24/7]
+http://139.162.182.79/live/test/index.m3u8
+#EXTINF:-1 tvg-id="SaudiThaqafiyaTV.sa" tvg-logo="https://i.imgur.com/juM3k8B.jpg" group-title="Culture",Saudi Thaqafiya TV (1080p)
+https://thaqafeyyah-ak.akamaized.net/out/v1/f6851f68ada94f82ae6b64a441eb5ab1/index.m3u8
+#EXTINF:-1 tvg-id="SaudiaRadio.sa" tvg-logo="https://i.imgur.com/CvrR7wW.png" group-title="Undefined",Saudia Radio (720p)
+https://edge.taghtia.com/sa/11.m3u8
+#EXTINF:-1 tvg-id="SayedatAlshasha.sa" tvg-logo="https://i.imgur.com/TmgL3Yt.png" group-title="Undefined",Sayedat Alshasha (1080p) [Geo-blocked]
+https://daiconnect.com/live/hls/rotana/selshasha/.m3u8
+#EXTINF:-1 tvg-id="SBC.sa" tvg-logo="https://i.imgur.com/9JSQglj.png" group-title="General",SBC (1080p) [Not 24/7]
+https://edge.taghtia.com/sa/1.m3u8
+#EXTINF:-1 tvg-id="SemerkandTV.tr" tvg-logo="https://i.imgur.com/UVGGrQd.png" group-title="Undefined",Semerkand TV (1080p) [Not 24/7]
+https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
