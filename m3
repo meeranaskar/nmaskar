@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Safari TV (480p) [Not 24/7]
 https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8?checkedby:iptvcat.org
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="Undefined",Samachar Plus (1080p)
