@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="RakutenTVFamilyMovies.uk" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Family;Movies",Bloomberg
+https://live-prod-us-event-primary.akamaized.net/evt/Channel-USEvt-AWS-virginia-2/Source-USEvt-10000-1-sdlg9j-BP-HD-4-W7WyphVQipuJ_live.m3u8
 #EXTINF:-1 tvg-id="RakutenTVFamilyMovies.uk" tvg-logo="https://i.imgur.com/NJYEYE3.png" group-title="Family;Movies",Rakuten Family UK (720p)
 https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="IndywoodTV.in" tvg-logo="https://i.ibb.co/jT3NCPp/logo-tv.png" group-title="Movies;News",Indywood TV (720p)
