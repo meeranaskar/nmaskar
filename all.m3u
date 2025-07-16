@@ -1,1 +1,43 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="PowerTurkAkustik.tr" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Music",Power Türk Akustik (1080p)
+https://livetv.powerapp.com.tr/pturkakustik/akustik.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkEnIyiler.tr" tvg-logo="https://i.imgur.com/CM2Z9lg.png" group-title="Music",Power Türk En Iyiler (1080p)
+https://livetv.powerapp.com.tr/pturkeniyiler/eniyiler.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkSlow.tr" tvg-logo="https://i.imgur.com/tQSoQXW.png" group-title="Music",Power Türk Slow (1080p)
+https://livetv.powerapp.com.tr/pturkslow/slow.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTaptaze.tr" tvg-logo="https://i.imgur.com/a5nW3HU.png" group-title="Music",Power Türk Taptaze (1080p)
+https://livetv.powerapp.com.tr/pturktaptaze/taptaze.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTV.tr" tvg-logo="https://i.imgur.com/XSL1gd7.png" group-title="Undefined",Power TV (1080p)
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PowerTurkTV.tr" tvg-logo="https://i.imgur.com/9OPoXQG.png" group-title="Undefined",PowerTurk TV
+https://powerturk.blutv.com/blutv_powerturk/powerturk_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PressTV.ir" tvg-logo="https://i.imgur.com/nsYdri2.png" group-title="News",Press TV (720p)
+https://cdnlive.presstv.ir/cdnlive/smil:cdnlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="PressTVFrench.ir" tvg-logo="https://i.imgur.com/xsj8KHj.png" group-title="News",Press TV French (1080p)
+https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="QafTV.tr" tvg-logo="https://i.imgur.com/hrk7Uce.png" group-title="Undefined",Qaf TV (1080p)
+https://mn-nl.mncdn.com/qaf/live/playlist.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision2.qa" tvg-logo="https://i.imgur.com/iWJxDUm.png" group-title="General",Qatar Television 2 (720p)
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+#EXTINF:-1 tvg-id="QatarTelevision.qa" tvg-logo="https://i.imgur.com/N5RB4sp.png" group-title="General",Qatar Television (720p)
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 tvg-id="QuranRadio.sa" tvg-logo="https://i.imgur.com/ut0kr4x.png" group-title="Undefined",Quran Radio (720p)
+https://edge.taghtia.com/sa/13.m3u8
+#EXTINF:-1 tvg-id="RadioAlbaladTV.ps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="Undefined",Radio Albalad TV (720p)
+http://streaming.zaytonatube.com:8080/radioalbalad/radioalbalad/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioAlkulTV.sy" tvg-logo="https://i.imgur.com/Dj9UNFd.png" group-title="News",Radio Alkul TV (1080p) [Not 24/7]
+https://ffs.gulfsat.com/AlkulTV/video.m3u8
+#EXTINF:-1 tvg-id="RadioFannJordanCityView.jo" tvg-logo="https://i.imgur.com/kyUtYM4.png" group-title="Undefined",Radio Fann Jordan: City View (180p) [Not 24/7]
+http://188.247.86.66/RadioFann/CityView1/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioFannJordanControlStudio.jo" tvg-logo="https://i.imgur.com/WHhZTIe.png" group-title="Undefined",Radio Fann Jordan: Control Studio (220p) [Not 24/7]
+http://188.247.86.66/RadioFann/ControlStudio1/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioFannJordanStudio.jo" tvg-logo="https://cdn-profiles.tunein.com/s142626/images/logod.jpg" group-title="Undefined",Radio Fann Jordan: Studio (180p) [Not 24/7]
+http://188.247.86.66/RadioFann/OnAirStudio1/playlist.m3u8
+#EXTINF:-1 tvg-id="RJTV.us" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="Music",Radio Javan TV (1080p)
+http://74.115.215.41/live/smil:rjtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioYaqeenJordanCityView.jo" tvg-logo="https://i.imgur.com/wHOQU0R.png" group-title="Undefined",Radio Yaqeen Jordan: City View (180p) [Not 24/7]
+http://188.247.86.66/MixFM/CityView1/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioYaqeenJordanControlStudio.jo" tvg-logo="https://i.imgur.com/s5VHg9W.png" group-title="Undefined",Radio Yaqeen Jordan: Control Studio (180p) [Not 24/7]
+http://188.247.86.66/MixFM/ControlStudio1/playlist.m3u8
+#EXTINF:-1 tvg-id="RadioYaqeenJordanStudio.jo" tvg-logo="https://cdn-profiles.tunein.com/s199080/images/logod.png" group-title="Undefined",Radio Yaqeen Jordan: Studio (180p) [Not 24/7]
+http://188.247.86.66/MixFM/OnAirStudio1/playlist.m3u8
