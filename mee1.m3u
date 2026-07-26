@@ -1,4 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1Music" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Music",1Music
 http://hz1.teleport.cc/HLS/HD.m3u8
-
+#EXTINF:-1 tvg-id="BloombergNews" tvg-logo="https://i.imgur.com/driabBO.png" group-title="News",Bloomberg
+https://bloomberg.com/media-manifest/streams/us.m3u8
