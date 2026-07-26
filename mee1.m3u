@@ -11,3 +11,5 @@ https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 #EXTINF:40,NDTV 24X7 (480p) [Not 24/7]
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="News",RTDocumentary
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
