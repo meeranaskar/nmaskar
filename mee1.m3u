@@ -13,3 +13,19 @@ https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 #EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="News",RTDocumentary
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Movie",anol
+http://103.175.73.12:8080/live/271/271_0.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="News",Bigtv
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Music",Dhoommusic
+https://cdn-1.pishow.tv/live/1456/master.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Movie",GMBollywood
+http://103.175.73.12:8080/live/52/52_0.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="News",Janamtv
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/janamtv_nim_https/140622/janamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Movie",KairaliArabia
+https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Music",Murasu
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/murasu_nim_https/050522/murasu/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="entertainment",Mazhavilmanorama
+https://cdn-7.pishow.tv/live/1129/master.m3u8
