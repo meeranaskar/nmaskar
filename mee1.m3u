@@ -5,8 +5,6 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 https://bloomberg.com/media-manifest/streams/us.m3u8
 #EXTINF:0,Balle Balle (720p)
 https://mcncdndigital.com/balleballetv/index.m3u8
-#EXTINF:0,Dheeran TV (576p)
-https://live.we2live.in/dheerantv/dheerantv/playlist.m3u8
 #EXTINF:36,Kaumudy TV (720p)
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 #EXTINF:40,NDTV 24X7 (480p) [Not 24/7]
@@ -95,7 +93,25 @@ https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorstamilhd11.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="entertainment",colorsinfinity
 http://103.175.73.12:8080/live/29/29_0.m3u8
-#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="entertainment",colorsrishtey
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="entertainment",subintv  
+https://stream.galaxyott.live/live/subintv/index.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="entertainment",colrsrishtey
 https://manatv.akamaized.net/090823/smil:ristheyamerica.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="entertainment",colorsmena
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:colorsme.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="entertainment",JanamtvTamil
+https://mumt01.tangotv.in/O5aw8Zn3JANAMTVTAMIL/index.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Music",9xm
+https://9xjio.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="entertainment",Swantham
+http://cloud.logichost.in:1935/SWANTHAM/live/index.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="entertainment",TabbarHits
+https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e11b0319-52e8-4190-ab03-3931cc68eac9/index.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="entertainment",TVIHDTamil
+https://live.cmr24.fm/TVI/HD/chunks.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="entertainment",VijayTakkar
+https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.mpd
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="News",ZTamilNews
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Music",Zoom
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
