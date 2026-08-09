@@ -115,3 +115,13 @@ https://tglmp01.akamaized.net/out/v1/c1071012b73f4f189b202e1529e8f802/manifest.m
 https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/ZMCL/ZeeTamilNews.m3u8
 #EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Music",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Entertainment",AsianetME
+https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Entertainment",FlowersUS
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Entertainment",KairaliArabia
+https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Entertainment",KairaliTV
+https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Entertainment",KalikaTV
+http://server.applelive.in/kalikatv/kalikatv.m3u8
