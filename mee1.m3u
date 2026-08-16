@@ -125,3 +125,7 @@ https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8
 https://mumt01.tangotv.in/O5aw8Zn3KAIRALI/index.m3u8
 #EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Entertainment",KalikaTV
 http://server.applelive.in/kalikatv/kalikatv.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Entertainment",EET
+https://eu.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Entertainment",NTCTAMIL
+https://galaxyott.live/hls/ntv.m3u8
