@@ -149,3 +149,48 @@ https://mumt04.tangotv.in/m18aqlK4EPICMUSIC/index.m3u8
 https://mumt06.tangotv.in/qYyB8fXVMANORANJANPRIME/index.m3u8
 #EXTINF:-1 tvg-id="RTDocu" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Music",shemaroo
 https://airtelapp.shemaroo.com/shemarootv/smil:shemarootvadp.smil/playlist.m3u8
+#EXTINF:0,Mytime (UK)
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8
+#EXTINF:0,Teen Vee English 
+#EXTVLCOPT:network-caching=1000
+https://amg02051-soulpublishing-amg02051c5-xiaomi-international-383.playouts.now.amagi.tv/playlist/amg02051-admecyltd-teenveeenglish-xiaomiinternational/playlist.m3u8
+#EXTINF:0,123 Go! English (IN)
+#EXTVLCOPT:network-caching=1000
+https://amg02051-soulpublishing-amg02051c17-xiaomi-in-399.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123goenglish-xiaomiin/playlist.m3u8
+#EXTINF:0,123 Go! Spanish 
+#EXTVLCOPT:network-caching=1000
+https://amg02051-soulpublishing-amg02051c18-xiaomi-international-372.playouts.now.amagi.tv/playlist/amg02051-admecyltd-123gospanish-xiaomiinternational/playlist.m3u8
+#EXTINF:0,PowerNation
+#EXTVLCOPT:network-caching=1000
+https://amg01258-raycom-amg01258c1-xiaomi-international-907.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernation-xiaomiinternational/playlist.m3u8
+#EXTINF:0,MovieDome
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedome-xiaomi/playlist.m3u8
+#EXTINF:0,MovieDome Family
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomefamily-xiaomi/playlist.m3u8
+#EXTINF:0,Action Hollywood Movies
+#EXTVLCOPT:network-caching=1000
+https://lightning-actionhollywood-xiaomi.amagi.tv/playlist.m3u8
+#EXTINF:0,Zee Wion (Asia)
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeewion-xiaomi/playlist.m3u8
+#EXTINF:0,B4U Movies
+#EXTVLCOPT:network-caching=1000
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,B4U Kadak
+#EXTVLCOPT:network-caching=1000
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,Young Hollywood (Asia)
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-younghollywood-xiaomi/playlist.m3u8
+#EXTINF:0,Saga Music (Asia)
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+#EXTINF:0,YRF Music (Asia)
+#EXTVLCOPT:network-caching=1000
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+#EXTINF:0,Wedo Movies 
+#EXTVLCOPT:network-caching=1000
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00735-videosolutionsa-movies4free-xiaomi/playlist.m3u8
