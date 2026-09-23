@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ftv" tvg-logo="" group-title="fashion",ftv
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_240426_p_0.m3u8
 #EXTINF:-1 tvg-id="kalaignartv" tvg-logo="" group-title="Tamil",Kaliagnartv
 https://segment.yuppcdn.net/240122/kalaignartv/240122/kalaignartv_1800/chunks.m3u8
 #EXTINF:-1 tvg-id="kaiaraliwe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN5wZ0sCMT9CCBp2bRfw87qqWVxPNb4uSYxTLAwGHLcg&s=10" group-title="Malayalam",kairaliwe
