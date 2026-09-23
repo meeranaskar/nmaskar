@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="kaiaraliwe" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN5wZ0sCMT9CCBp2bRfw87qqWVxPNb4uSYxTLAwGHLcg&s=10" group-title="Malayalam",kairaliwe
+https://streams.tangotv.in/WETV/ORIGIN/index.m3u8
+#EXTINF:-1 tvg-id="NHTamilGold" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpxPaIbRWKawFIEgWJCbU2CIb1VtuxKlaPX543FO5o5g&s=10" group-title="Tamil",NHTamilGold
+https://d3arbp6l7f096k.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-gv6wgpbb4mgwk/playlist.m3u8?ads.ads_cdn=cf&ads.app_domain=APP_DOMAIN&ads.cdn=cf
+#EXTINF:-1 tvg-id="Dangal2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlpRzscU3AO2g2_V3PiIndXYUkSKthoMl1fqML2RTkEg&s" group-title="Hindi",Dangal2
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 tvg-id="AsianetHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeVLCwvQQA7WSxFc4TXGzZpypXkrjUVNtVKP7Bkgmi8Q&s=10" group-title="Malayalam",AsianetHD
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/in/YuppTV/AsianetHD.m3u8
 #EXTINF:-1 tvg-id="1Music" tvg-logo="https://i.imgur.com/driabBO.png" group-title="Music",1Music
 http://hz1.teleport.cc/HLS/HD.m3u8
 #EXTINF:-1 tvg-id="BloombergNews" tvg-logo="https://i.imgur.com/driabBO.png" group-title="News",Bloomberg
