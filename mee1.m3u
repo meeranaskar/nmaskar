@@ -1,4 +1,13 @@
 #EXTM3U
+#EXTINF:0,Raj Musix Malayalam (576p)
+#EXTVLCOPT:network-caching=1000
+https://cdn.pishow.tv/ott/live/1073/master.m3u8
+#EXTINF:0,Raj Musix Tamil (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u8
+#EXTINF:0,Raj Digital Plus (1080p)
+#EXTVLCOPT:network-caching=1000
+https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/RajTV_Digital_plus/master_1.m3u8
 #EXTINF:0,Kalaignar TV (396p)
 #EXTVLCOPT:network-caching=1000
 https://segment.yuppcdn.net/240122/kalaignartv/playlist.m3u8
